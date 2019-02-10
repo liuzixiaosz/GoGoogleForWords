@@ -1,14 +1,506 @@
-nice, good, 
+interminable, 
 
-good, excellent, 
+intrinsic, integral, inherent, intimate, latent, 
 
-hail, 
+instate, institute, 
 
-excellent, 
+malfeasance, 
 
-transparency, 
+lurk, 
 
-acetaldehyde, 
+lavish, magnificent, lush, luxurious, 
 
-hell, 
+linger, loll, 
+
+invoke, initiate, 
+
+invidious, libelous, 
+
+iridescent, lustrous, 
+
+jocular, jocund, jovial, 
+
+maelstrom, 
+
+misdemeanour, 
+
+melodramatic, 
+
+minatory, 
+
+inure, 
+
+loquacious, 
+
+insipid, jejune, maudlin, innocuous, 
+
+intoxicant, 
+
+innovative, 
+
+languid, lethargic, 
+
+labyrinth, mesh, 
+
+lullaby, lull, 
+
+minuscule, minute, 
+
+insular, 
+
+malcontent, insurgent, maverick, 
+
+mesmeric, 
+
+lubricate, 
+
+latitude, 
+
+irradicable, inveterate, 
+
+lament, 
+
+legacy, largesse, 
+
+legion, 
+
+jeopardy, menace, liability, 
+
+invective, lampoon, 
+
+martinet, 
+
+inveigh, lambaste, kidnap, 
+
+maculate, 
+
+labile, 
+
+kudos, 
+
+macerate, mash, 
+
+measly, mean, miserly, meager, 
+
+malleable, 
+
+meddle, 
+
+lacerate, mangle, 
+
+irk, miff, irritate, 
+
+jitters, 
+
+manacle, 
+
+manumit, 
+
+macabre, 
+
+largesse, 
+
+inveterate, 
+
+jejune, innocuous, meager, 
+
+metaphysical, intangible, 
+
+ministration, 
+
+lambaste, 
+
+lethal, 
+
+lash, 
+
+limpid, intelligible, lucid, 
+
+mellifluous, lyric, 
+
+liken, 
+
+mawkish, maudlin, 
+
+kindle, instigate, 
+
+mesh, knit, 
+
+laconic, 
+
+lyric, 
+
+misgiving, 
+
+mean, malicious, miserly, mangy, mediocre, 
+
+maudlin, lachrymose, 
+
+inundate, irrigate, 
+
+miff, irritate, 
+
+libelous, malicious, 
+
+integrity, 
+
+ironclad, 
+
+limp, 
+
+mediate, 
+
+insentient, 
+
+lampoon, jape, 
+
+leer, 
+
+irritate, 
+
+interdict, 
+
+intercessor, 
+
+magnificent, 
+
+levelheaded, judicious, 
+
+lofty, 
+
+jaded, 
+
+malicious, mischievous, 
+
+irascible, 
+
+lush, luxurious, 
+
+mirage, 
+
+initiate, instigate, institute, 
+
+loathe, 
+
+intransigent, 
+
+insouciant, jaunty, 
+
+loutish, 
+
+jingoist, 
+
+interrogate, 
+
+lassitude, malaise, languor, 
+
+miserly, mercenary, 
+
+lenient, meek, liberal, 
+
+mimic, mime, 
+
+instigate, 
+
+lull, lapse, interregnum, 
+
+lank, 
+
+minute, meticulous, 
+
+inter, 
+
+knotty, 
+
+integral, 
+
+intensify, 
+
+inveigle, 
+
+libertine, licentious, 
+
+merited, 
+
+lucrative, 
+
+maven, 
+
+mirth, levity, 
+
+inventory, list, 
+
+limber, lissome, lithe, 
+
+laborious, 
+
+misanthropic, 
+
+lumber, 
+
+mar, 
+
+mercenary, 
+
+jabber, 
+
+mastery, knack, ken, 
+
+mettle, 
+
+lapse, interregnum, 
+
+inconsistent, mercurial, 
+
+marvel, 
+
+meander, 
+
+insensible, intangible, 
+
+inkling, 
+
+knit, 
+
+mannered, 
+
+lug, lurch, 
+
+licentious, 
+
+laudatory, 
+
+mime, 
+
+matriculate, 
+
+judicious, 
+
+meticulous, methodical, 
+
+knack, 
+
+meek, 
+
+intemperate, 
+
+insurgent, insubordinate, 
+
+interim, interregnum, 
+
+inherent, intuitive, latent, 
+
+luminary, 
+
+intelligible, lucid, 
+
+innocuous, 
+
+list, jot, 
+
+lissome, lithe, 
+
+malinger, 
+
+loath, 
+
+mangy, 
+
+jibe, 
+
+methodical, 
+
+invincible, 
+
+leery, 
+
+jog, jolt, 
+
+jot, 
+
+meager, 
+
+kindred, 
+
+malaise, 
+
+languish, 
+
+mendacious, 
+
+misconstrue, 
+
+irate, 
+
+insulate, 
+
+mercurial, 
+
+lustrous, 
+
+maladroit, 
+
+jest, jape, 
+
+lachrymose, 
+
+interregnum, 
+
+mediocre, 
+
+migratory, itinerant, 
+
+masquerade, 
+
+jarring, 
+
+manifest, 
+
+insolent, insubordinate, 
+
+invigorate, 
+
+medley, 
+
+loll, 
+
+intrigue, 
+
+intimate, 
+
+ken, 
+
+instill, 
+
+jolt, 
+
+jocund, 
+
+intermittent, 
+
+manuscript, 
+
+jaundice, 
+
+maverick, 
+
+intuitive, 
+
+juggernaut, 
+
+levity, 
+
+jovial, jaunty, 
+
+measured, 
+
+interlock, 
+
+luxurious, 
+
+jape, 
+
+menace, intimidate, 
+
+jettison, 
+
+kidnap, 
+
+meteoric, 
+
+intangible, 
+
+jubilant, 
+
+lethargic, 
+
+intimidate, 
+
+milk, 
+
+malign, 
+
+mentor, 
+
+liability, 
+
+jargon, 
+
+issue, mint, 
+
+inimitable, 
+
+insubordinate, 
+
+institute, 
+
+kilter, 
+
+mint, 
+
+intrepid, 
+
+lithe, 
+
+mandatory, 
+
+meet, 
+
+mash, 
+
+inquisitive, 
+
+latent, 
+
+languor, 
+
+mischievous, 
+
+lopsided, 
+
+mingle, 
+
+metamorphose, 
+
+inconclusive, 
+
+leaven, 
+
+misbehaving, 
+
+iniquity, 
+
+minutiae, 
+
+irrigate, 
+
+malodorous, 
+
+inimical, 
+
+liberal, 
+
+lucid, 
+
+lugubrious, 
+
+itinerant, 
+
+mire, 
+
+jaunty, 
+
+lackluster, 
+
+minimize, 
+
+miscreant, 
+
+mania, 
+
+manipulate, 
+
+lurch, 
+
+mangle, 
 

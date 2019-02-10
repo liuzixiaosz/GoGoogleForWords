@@ -32,6 +32,9 @@ def read_input(argv):
         fr.seek(0)
         raw_words = fr.readlines()
         fr.close()
+        if len(argv) > 2:
+            print('spliting ...')
+            # TODO
         return raw_words
 
 
@@ -106,8 +109,16 @@ def search_synonyms(word):
                 pass
         return syn
 
-    r = requests.get(url=syn_search_url)
-    soup = bs4.BeautifulSoup(r.text, "lxml")
+    try:
+        r = requests.get(url=syn_search_url)
+        soup = bs4.BeautifulSoup(r.text, "lxml")
+    except Exception:
+        time.sleep(3)
+        try:
+            r = requests.get(url=syn_search_url)
+            soup = bs4.BeautifulSoup(r.text, "lxml")
+        except Exception:
+            soup = None
     if soup:
         return grab_syn(soup)
     else:
@@ -126,28 +137,31 @@ def googleit(tup_list, sorted_tup_list, graph):
         score = 0
         inc = []
         u = ''
-        for this_url in googlesearch.search(phrase, stop=stop):
-            try:
-                r = requests.get(url=this_url)
-            except Exception:
-                time.sleep(3)
+        try:
+            for this_url in googlesearch.search(phrase, stop=stop):
                 try:
                     r = requests.get(url=this_url)
                 except Exception:
-                    # sys.stderr.write('error with %s \n' % this_url)
-                    continue
-            this_score = 0
-            soup = bs4.BeautifulSoup(r.text, "lxml")
-            this_inc = []
-            txt = str(soup.text).lower()
-            for wd in wd2search:
-                if wd in txt:
-                    this_score += 1
-                this_inc.append(wd)
-                if this_score > score:
-                    score = this_score
-                    inc = this_inc
-                    u = this_url
+                    time.sleep(3)
+                    try:
+                        r = requests.get(url=this_url)
+                    except Exception:
+                        # sys.stderr.write('error with %s \n' % this_url)
+                        continue
+                this_score = 0
+                soup = bs4.BeautifulSoup(r.text, "lxml")
+                this_inc = []
+                txt = str(soup.text).lower()
+                for wd in wd2search:
+                    if wd in txt:
+                        this_score += 1
+                    this_inc.append(wd)
+                    if this_score > score:
+                        score = this_score
+                        inc = this_inc
+                        u = this_url
+        except Exception:
+            pass
         return inc, u
 
     for tup in sorted_tup_list:
@@ -183,8 +197,12 @@ def googleit(tup_list, sorted_tup_list, graph):
     return web_dict
 
 
-def write_web(url_words_dict):
-    filename = 'articles.txt'
+def write_web(url_words_dict, **kwargs):
+    name = kwargs.get('name')
+    if name:
+        filename = name
+    else:
+        filename = 'Websites_' + str(time.time()) + '.txt'
     print('writing webinfo ...')
     fw = open(filename, 'w')
     for i in range(1, len(url_words_dict)):
@@ -195,12 +213,22 @@ def write_web(url_words_dict):
     fw.close()
 
 
-def write_syn(tup_list, syn_graph):
+def write_syn(tup_list, syn_graph, **kwargs):
+    nameall = kwargs.get('nameall')
+    namegrp = kwargs.get('namegrp')
+    if nameall:
+        filename_all = nameall
+    else:
+        filename_all = 'Syn_' + str(time.time()) + '.md'
+    if namegrp:
+        filename_grp = 'SynGrp_' + str(time.time()) + '.txt'
+    else:
+        filename_grp = 'synonyms_group.txt'
     print('writing synonyms_info ...')
     length = len(tup_list)
     wd_list = [tup[0] for tup in tup_list]
-    fw1 = open('synonyms_all.md', 'w')
-    fw2 = open('synonyms_group.txt', 'w')
+    fw1 = open(filename_all, 'w')
+    fw2 = open(filename_grp, 'w')
     for i in range(0, length):
         this_word = tup_list[i][0]
         group1 = []
