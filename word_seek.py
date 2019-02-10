@@ -38,8 +38,9 @@ def main(argv):
             if wd in cnt_ctnt:
                 inside.append(wd)
         f_out = open('cnt.md', 'a')
-        f_out.write(url + '\n' + str(inside)[1: -1].replace(',', '').replace('\'', '') + '\n\n')
+        f_out.write('[link](' + url + ')\n' + str(inside)[1: -1].replace(',', '').replace('\'', '') + '\n\n')
         print('finished')
+
 
 if __name__ == '__main__':
     main(sys.argv)
