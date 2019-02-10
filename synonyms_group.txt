@@ -1,506 +1,6068 @@
-interminable, 
+slump, sprawl, plummet, doldrums, deterioration, collapse, slouch, plunge, loll, 
 
-intrinsic, integral, inherent, intimate, latent, 
+stock, premium, hoard, repertoire, credence, inventory, credit, 
 
-instate, institute, 
+flaw, foible, deficiency, pitfall, typo, rift, glitch, blemish, speck, 
 
-malfeasance, 
+anonymous, unsung, 
 
-lurk, 
+immaterial, trivial, inconsequential, trifling, numinous, impertinent, metaphysical, extraneous, 
 
-lavish, magnificent, lush, luxurious, 
+falsehood, sham, figment, fable, canard, 
 
-linger, loll, 
+incogitant, 
 
-invoke, initiate, 
+foreword, preface, prologue, overture, 
 
-invidious, libelous, 
+cede, surrender, alienate, concede, relinquish, abdicate, capitulate, accord, vouchsafe, resign, renounce, 
 
-iridescent, lustrous, 
+countermand, rescind, recant, override, retract, repeal, revoke, 
 
-jocular, jocund, jovial, 
+vilify, assail, vituperate, excoriate, berate, execrate, denounce, decry, discredit, denigrate, fulminate, damn, malign, calumniate, debase, disparage, slur, 
 
-maelstrom, 
+beige, insipid, fawn, 
+
+rail, vituperate, lampoon, berate, abuse, castigate, censure, fulminate, upbraid, inveigh, blast, rant, rave, 
+
+timeworn, trite, threadbare, dated, antiquated, hoary, hackneyed, antediluvian, 
+
+extricate, extract, discern, discriminate, detach, manumit, disengage, withdraw, redeem, 
+
+guardian, chaperone, champion, escort, 
+
+categorical, absolute, dogmatic, forthright, univocal, peremptory, explicit, wrongheaded, 
+
+embed, deposit, plunge, 
+
+incite, exhort, agitate, motivate, foment, abet, rouse, engender, provoke, spur, instigate, hearten, inflame, whet, animate, 
+
+impugn, disavow, gainsay, assail, disprove, denigrate, traverse, contradict, contravene, blast, 
+
+annotate, elucidate, gloss, 
+
+variegated, dappled, chromatic, motley, piebald, 
+
+retard, procrastinate, obstruct, check, clog, hamper, dawdle, impede, arrest, encumber, detain, defer, fetter, 
+
+desiccate, deplete, wither, parch, wizen, dehydrate, 
 
 misdemeanour, 
 
-melodramatic, 
+raffish, dashing, fast, garish, tawdry, jaunty, rakish, bohemian, uncouth, coarse, vulgar, 
 
-minatory, 
+buck, repel, pulverize, bound, lug, traverse, contradict, 
 
-inure, 
+patriot, jingoist, partisan, 
 
-loquacious, 
+calibrate, assess, check, gauge, 
 
-insipid, jejune, maudlin, innocuous, 
+synthesis, pastiche, compound, 
+
+shiftless, indolent, lethargic, feckless, slack, idle, 
+
+foil, elude, stymie, daunt, hamper, thwart, disconcert, 
+
+rife, prevalent, replete, abundant, teeming, rampant, 
+
+anarchist, insurgent, malcontent, 
+
+copious, verbose, replete, prodigal, torrential, affluent, abundant, voluminous, lush, prolix, fluent, lavish, liberal, exuberant, 
+
+probe, wiretap, check, fathom, scrutinize, interrogate, sift, reconnoiter, delve, verify, perforate, 
+
+barb, scoff, dart, taunt, spike, gibe, bristle, sneer, spur, sarcasm, 
+
+chasm, schism, gorge, rift, breach, 
+
+riot, turmoil, tumult, fracas, rabble, revolt, drollness, carouse, blast, pandemonium, 
+
+rarefy, irrigate, diminish, extenuate, spike, refine, prune, attenuate, distill, 
+
+temporize, balk, procrastinate, equivocate, hedge, 
+
+pious, devoted, sanctimonious, sacrosanct, fervent, devout, orthodox, 
+
+mellifluous, lyric, harmonious, fluent, resonant, agreeable, euphonious, dulcet, 
+
+hardy, stalwart, spartan, hard-bitten, sturdy, solid, robust, hale, sound, stouthearted, 
+
+dally, procrastinate, linger, lag, dabble, dawdle, idle, 
+
+commonsensical, pragmatic, judicious, rational, prudent, sapient, sage, sound, levelheaded, 
+
+repugnant, averse, vile, invidious, fetid, inimical, 
+
+cavalier, overweening, offhand, condescending, insolent, supercilious, curt, lofty, overbearing, 
+
+efface, annul, obliterate, 
+
+clement, indulgent, lenient, benign, moderate, temperate, 
+
+resolute, staunch, intrepid, sturdy, retentive, steadfast, audacious, strenuous, obstinate, adamant, intransigent, dogged, pertinacious, relentless, tenacious, 
+
+exorbitant, draconian, steep, outrageous, superfluous, preposterous, prohibitive, undue, exacting, stiff, extravagant, 
+
+timely, appropriate, judicious, apposite, propitious, seemly, opportune, auspicious, apropos, favorable, meet, 
+
+sloppy, slipshod, slovenly, negligent, imprecise, cursory, lax, slapdash, remiss, clumsy, awkward, mediocre, dingy, slack, mawkish, unkempt, flabby, muddy, 
+
+primitive, primordial, naive, indigenous, pristine, barbarous, original, cellular, rustic, archaic, antediluvian, rudimentary, 
+
+indifferent, disinterested, pitiless, phlegmatic, tepid, halfhearted, lax, remiss, perfunctory, dispassionate, stolid, blasé, callous, bureaucratic, aloof, stoic, impervious, numb, offish, mediocre, languid, disaffected, torpid, nonchalant, 
+
+gamble, speculate, 
+
+quixotic, chivalrous, gallant, impetuous, visionary, 
+
+saturate, steep, suffuse, satiate, macerate, infiltrate, sate, douse, surfeit, drench, permeate, sop, infuse, soak, pervade, 
+
+surrogate, expediency, vicarious, substitute, delegate, 
+
+calamity, plague, bane, catastrophe, havoc, affliction, collapse, doom, scourge, adversity, ordeal, mishap, 
+
+align, ally, orient, 
+
+peeve, annoy, exasperate, nettle, gripe, vex, irritate, aggravate, irk, roil, chagrin, gall, miff, rile, 
+
+far-fetched, eccentric, dubious, recondite, inconsequential, preposterous, 
+
+pompous, august, overweening, egoistic, majestic, smug, presumptuous, theatrical, grandiose, grandiloquent, overbearing, imperious, snobbish, 
+
+patrician, peer, 
+
+dashing, vigorous, natty, debonair, gallant, dazzling, jaunty, rakish, chic, flamboyant, ostentatious, dapper, stouthearted, 
+
+glaze, varnish, burnish, gloss, patina, enamel, 
+
+slipshod, slovenly, negligent, slapdash, remiss, perfunctory, haphazard, unkempt, 
+
+fantasy, hallucination, apparition, delusion, figment, chimera, fable, vagary, mirage, fad, 
+
+ramble, drivel, perambulate, sprawl, digress, mumble, jabber, meander, babble, saunter, stray, amble, 
+
+intermediary, intercessor, channel, delegate, 
+
+disavow, gainsay, recant, retract, renege, repudiate, contradict, abjure, renounce, 
+
+premium, subsidy, largesse, boon, 
+
+comprehend, embrace, discern, savvy, fathom, 
+
+draconian, inclement, stringent, 
+
+devious, circuitous, shrewd, duplicitous, sly, wily, fraudulent, errant, byzantine, sinuous, shifty, 
+
+feral, ferocious, 
+
+appropriate, plagiarize, condign, purloin, embezzle, transfigure, designate, applicable, poach, pertinent, usurp, apt, pilfer, compatible, relevant, opportune, procure, apropos, preempt, commensurate, favorable, providential, annex, 
+
+warp, crook, misrepresent, belie, distort, mar, swerve, slant, garble, contort, debase, jaundice, vitiate, 
+
+sluggish, dormant, impuissance, tardy, phlegmatic, indolent, lethargic, stagnant, sedentary, dilatory, languid, inert, slack, 
+
+pointer, signal, gauge, 
+
+hymn, paean, incantation, chorale, eulogize, extol, 
+
+unlettered, oblivious, obtuse, naive, 
+
+disjunctive, 
+
+victimize, cozen, discriminate, hoodwink, gull, exploit, dupe, hoax, persecute, swindle, 
+
+epilogue, coda, sequel, finale, 
+
+deplete, dissipate, dilapidate, emaciate, diminish, squander, exhaust, sap, milk, evacuate, 
+
+deprivation, divestiture, privation, 
+
+implacable, pitiless, vindictive, ruthless, obdurate, ferocious, inexorable, relentless, 
+
+eccentric, protuberant, offbeat, whimsical, outlandish, quirky, erratic, anomalous, clownish, drollness, 
+
+submissive, obsequious, tractable, humble, servile, ingratiating, meek, abject, obedient, compliant, subservient, pliable, malleable, menial, amenable, pliant, 
+
+vernacular, demotic, jargon, indigenous, vulgar, 
+
+pilot, bellwether, usher, 
+
+awry, asymmetrical, wry, lopsided, oblique, askew, 
+
+fallible, frail, errant, 
+
+autonomy, 
+
+asymmetrical, protuberant, lopsided, oblique, 
+
+dubious, reluctant, apocryphal, vague, tenuous, ambiguous, leery, 
+
+conflagration, 
+
+convert, neophyte, novice, disciple, rehabilitate, 
+
+suture, stitch, 
 
 intoxicant, 
 
-innovative, 
+provenance, inception, 
 
-languid, lethargic, 
+crow, exult, gloat, swagger, flourish, strut, bluster, prate, vaunt, babble, 
 
-labyrinth, mesh, 
+plagiarize, pirate, forge, paraphrase, 
 
-lullaby, lull, 
+amiable, genial, cordial, prepossessing, amicable, bland, lenient, benign, affable, obliging, personable, jovial, 
 
-minuscule, minute, 
+pacify, propitiate, ameliorate, salve, defuse, compose, allay, lull, placate, mollify, tame, assuage, conciliate, disarm, repress, mitigate, alleviate, soothe, reconcile, subdue, quell, 
 
-insular, 
+deign, patronize, vouchsafe, consent, 
 
-malcontent, insurgent, maverick, 
+conducive, accessory, 
 
-mesmeric, 
+bigot, diehard, jingoist, fanatic, doctrinaire, partisan, zealot, sectarian, stickler, 
 
-lubricate, 
+morose, cantankerous, acrimonious, saturnine, sullen, testy, dour, choleric, depressed, surly, gloomy, churlish, lugubrious, pessimistic, mournful, 
 
-latitude, 
+veto, override, interdict, embargo, negation, quash, 
 
-irradicable, inveterate, 
+terminology, jargon, 
 
-lament, 
+restitution, indemnity, requite, 
 
-legacy, largesse, 
+obligatory, mandatory, imperative, requisite, imperious, prerequisite, 
 
-legion, 
+drivel, prate, jabber, balderdash, rigmarole, babble, humbug, 
 
-jeopardy, menace, liability, 
+rumple, crumple, ruffle, 
 
-invective, lampoon, 
+imperial, imperative, dignified, majestic, imposing, overbearing, imperious, 
 
-martinet, 
+profane, secular, worldly, desecrate, contaminate, damn, swear, coarse, vulgar, debase, impious, temporal, 
 
-inveigh, lambaste, kidnap, 
+exult, gloat, rejoice, bluster, vaunt, bully, revel, 
 
-maculate, 
+elevate, uphold, refine, tilt, intensify, 
 
-labile, 
+seminal, crucial, original, 
 
-kudos, 
+epic, verse, 
 
-macerate, mash, 
+wobble, lurch, oscillate, stammer, careen, waddle, dodder, reel, flounder, vacillate, falter, teeter, 
 
-measly, mean, miserly, meager, 
+shopworn, trite, threadbare, stale, 
 
-malleable, 
+disinterested, phlegmatic, tepid, perfunctory, dispassionate, aloof, 
 
-meddle, 
+recessive, dormant, latent, 
 
-lacerate, mangle, 
+corporeal, tangible, carnal, substantial, phenomenal, somatic, 
 
-irk, miff, irritate, 
+truculent, scrappy, aggressive, harsh, belligerent, opprobrious, barbarous, contentious, ferocious, caustic, 
 
-jitters, 
+penury, dearth, privation, 
 
-manacle, 
+primordial, pristine, original, antediluvian, 
 
-manumit, 
+prevalent, ubiquitous, commonplace, dominant, compelling, paramount, rampant, 
 
-macabre, 
+perambulate, traverse, 
 
-largesse, 
+scruple, censor, demur, misgiving, qualm, vacillate, falter, compunction, 
 
-inveterate, 
+fast, ribald, staunch, licentious, hasty, cursory, brisk, dissolute, abiding, fleet, rakish, abstain, 
 
-jejune, innocuous, meager, 
+viscous, glutinous, viscid, stiff, tenacious, 
 
-metaphysical, intangible, 
+illusory, fictitious, whimsical, fallacious, fanciful, ostensible, groundless, 
 
-ministration, 
+discombobulate, confound, befuddle, disconcert, fluster, discompose, baffle, ruffle, 
 
-lambaste, 
+expostulate, dissuade, deprecate, inveigh, 
 
-lethal, 
+domicile, accommodate, 
 
-lash, 
+hortative, didactic, 
 
-limpid, intelligible, lucid, 
+detritus, debris, deposit, 
 
-mellifluous, lyric, 
+tyrant, bully, martinet, 
 
-liken, 
+jitters, trepidation, dread, 
 
-mawkish, maudlin, 
+circumscribe, delineate, confine, bound, encompass, hamper, 
 
-kindle, instigate, 
+equable, placid, unflappable, imperturbable, methodical, temperate, agreeable, serene, 
 
-mesh, knit, 
+novel, offbeat, avant-garde, innovative, unwonted, refreshing, 
 
-laconic, 
+backfire, recoil, 
 
-lyric, 
+screen, shroud, filter, safeguard, cloak, masquerade, sift, hedge, secrete, conceal, partition, camouflage, expurgate, mesh, palliate, 
 
-misgiving, 
+sinew, vitality, 
 
-mean, malicious, miserly, mangy, mediocre, 
+proponent, partisan, champion, apostle, exponent, advocate, 
 
-maudlin, lachrymose, 
+impeccable, unexceptionable, immaculate, sartorial, unimpeachable, exquisite, 
 
-inundate, irrigate, 
+dissipate, emaciate, squander, dissolve, exhaust, lavish, attenuate, disseminate, 
 
-miff, irritate, 
+dissuade, deprecate, exhort, faze, thwart, deter, divert, 
 
-libelous, malicious, 
+dilapidate, exhaust, sabotage, mar, raze, overwhelm, 
 
-integrity, 
+diehard, fanatic, xenophobe, partisan, zealot, reactionary, conservative, intransigent, 
 
-ironclad, 
+dismantle, quench, strike, rescind, repeal, denude, raze, subvert, strip, revoke, 
 
-limp, 
+detour, parenthesis, substitute, 
 
-mediate, 
+vigorous, stalwart, aggressive, brisk, valiant, strenuous, robust, hale, sound, bracing, exuberant, 
 
-insentient, 
+toady, cajole, fawn, cower, flatter, 
 
-lampoon, jape, 
+jocund, blithe, jocular, sprightly, 
 
-leer, 
+sterile, arid, jejune, sanitary, futile, aseptic, fallow, effete, impotent, pristine, barren, 
 
-irritate, 
+courteous, ceremonious, chivalrous, urbane, debonair, humble, amicable, gallant, genteel, affable, obliging, diplomatic, 
 
-interdict, 
+dependable, stalwart, authentic, staunch, sturdy, steadfast, veracious, foolproof, levelheaded, 
 
-intercessor, 
+dismay, trepidation, consternation, faze, agitate, apprehension, daunt, cow, confound, pall, dread, chagrin, intimidate, appall, discompose, dishearten, 
 
-magnificent, 
+nourish, foster, nurture, cultivate, 
 
-levelheaded, judicious, 
+slovenly, negligent, slapdash, perfunctory, dingy, slack, unkempt, 
 
-lofty, 
+deluge, submerge, cascade, plethora, spate, barrage, douse, drench, inundate, overwhelm, soak, 
 
-jaded, 
+accessible, vulnerable, permeable, susceptible, 
 
-malicious, mischievous, 
+puissance, clout, 
 
-irascible, 
+parenthesis, tangent, idyll, 
 
-lush, luxurious, 
+venom, bane, enmity, spleen, grudge, rancor, 
 
-mirage, 
+deprecate, minimize, depreciate, deplore, detract, condemn, disparage, 
 
-initiate, instigate, institute, 
+apocalyptic, fateful, minatory, ominous, prophetic, portentous, 
 
-loathe, 
+incubate, nurture, 
 
-intransigent, 
+incursion, influx, 
 
-insouciant, jaunty, 
+accustom, reconcile, acclimate, homogenize, adapt, attune, 
 
-loutish, 
+annoy, exasperate, exacerbate, pique, nettle, faze, nudge, vex, agitate, irritate, antagonize, beleaguer, irk, haunt, badger, disgruntle, roil, chagrin, provoke, gall, tantalize, grate, inflame, ruffle, embarrass, bore, rile, 
 
-jingoist, 
+arrogance, nerve, hauteur, swagger, hubris, disdain, gall, effrontery, 
 
-interrogate, 
+liken, correlate, 
 
-lassitude, malaise, languor, 
+wheedle, grovel, cajole, banter, palaver, coax, entreat, inveigle, entice, court, flatter, seduce, 
 
-miserly, mercenary, 
+espouse, embrace, uphold, champion, advocate, 
 
-lenient, meek, liberal, 
+paucity, deficiency, dearth, 
 
-mimic, mime, 
+steep, suffuse, submerge, macerate, prohibitive, precipitous, drench, permeate, sop, infuse, mash, lofty, stiff, soak, arduous, 
 
-instigate, 
+conspire, intrigue, connive, collude, maneuver, 
 
-lull, lapse, interregnum, 
+synopsis, compendium, abstract, syllabus, 
 
-lank, 
+banal, mundane, jejune, trite, trifling, insipid, bland, tedious, plebeian, prosaic, hackneyed, humdrum, vapid, pedestrian, innocuous, 
 
-minute, meticulous, 
+turncoat, renegade, 
 
-inter, 
+half-baked, cursory, daft, vacuous, dilettante, 
 
-knotty, 
+taint, blight, stigma, besmirch, contaminate, discredit, tarnish, mar, blemish, malign, blur, maculate, muddy, 
 
-integral, 
+shrug, jolt, signal, lug, 
 
-intensify, 
+reticent, offish, impassive, reserved, taciturn, 
 
-inveigle, 
+virulent, scathing, acrimonious, septic, lethal, rabid, corrosive, malign, noxious, malicious, malignant, vitriolic, vicious, pernicious, 
 
-libertine, licentious, 
+crook, chord, meander, 
 
-merited, 
+revere, exalt, venerate, cherished, esteem, deify, adore, 
 
-lucrative, 
+cantankerous, scrappy, captious, belligerent, irascible, testy, dour, choleric, boorish, refractory, plaintive, churlish, obstinate, querulous, loutish, 
 
-maven, 
+didactic, pedagogical, 
 
-mirth, levity, 
+plague, bane, heckle, blight, importune, beleaguer, rankle, haunt, excruciate, entreat, badger, pandemic, scourge, harry, tantalize, menace, discompose, embarrass, 
 
-inventory, list, 
+august, estimable, eminent, dignified, majestic, resplendent, sublime, imposing, grandiose, lofty, magnificent, 
 
-limber, lissome, lithe, 
+idolatrize, canonize, deify, 
 
-laborious, 
+specious, nugatory, plausible, fallacious, captious, spurious, ostensible, idle, 
 
-misanthropic, 
+brash, headlong, overweening, hasty, madcap, vivacious, brassy, barefaced, audacious, impertinent, jaunty, reckless, impudent, impetuous, maladroit, tactless, imprudent, ebullient, exuberant, 
 
-lumber, 
+wiretap, scrutinize, interrogate, eavesdrop, surveillance, 
 
-mar, 
+appeal, charisma, allure, importune, beseech, overture, petition, supplicate, 
 
-mercenary, 
+scathing, harsh, zesty, pungent, trenchant, mordant, vitriolic, caustic, 
 
-jabber, 
+seamy, sordid, squalid, 
 
-mastery, knack, ken, 
+oblivious, negligent, insensible, unwitting, 
 
-mettle, 
+foster, uphold, champion, foment, patronize, nurture, cultivate, harbor, 
 
-lapse, interregnum, 
+ration, pittance, quota, 
 
-inconsistent, mercurial, 
+sparse, meager, sporadic, scant, 
 
-marvel, 
+propitiate, placate, mollify, assuage, conciliate, conform, mediate, soothe, reconcile, atone, adapt, 
 
-meander, 
+paltry, mean, trivial, inconsequential, minute, measly, puny, petty, meager, feeble, piddling, scant, despicable, 
 
-insensible, intangible, 
+minimize, diminish, extenuate, curtail, downplay, decry, detract, understate, prune, attenuate, disparage, pan, 
+
+efficacious, virtuous, providential, 
+
+balk, gag, dissent, demur, flinch, obstruct, stymie, dodge, discomfit, chagrin, shirk, baffle, recoil, 
+
+bumble, lurch, muffle, bungle, blunder, 
+
+resurrect, solace, resuscitate, rouse, renovate, console, revive, animate, 
+
+temerity, precipitation, pluck, gall, effrontery, 
+
+stultify, stifle, smother, suffocate, 
+
+ravenous, avid, covetous, ferocious, rapacious, voracious, 
+
+congruent, compatible, 
+
+misrepresent, distort, equivocate, fabricate, cloak, prevaricate, pirate, simulate, malign, 
+
+protuberant, salient, obtrusive, aberrant, elliptical, 
+
+versed, abreast, savvy, acquainted, conversant, polymath, proficient, cognizant, veteran, 
+
+elude, flinch, equivocate, parry, dodge, confound, skirt, outwit, goldbrick, thwart, circumvent, eschew, defy, shirk, baffle, sidestep, stonewall, shun, 
+
+scurrilous, outrageous, infamous, libelous, opprobrious, scandalous, invective, coarse, 
+
+verbose, effusive, tortuous, excursive, repetitious, tedious, rhetorical, prolix, windy, grandiloquent, diffuse, loquacious, redundant, garrulous, 
+
+lyric, verse, 
+
+unexceptionable, 
+
+incarnate, tangible, substantiate, 
+
+compliment, acclaim, cajole, endorse, eulogize, homage, commend, extol, applause, tribute, boon, 
+
+aphorism, wit, truism, epigram, 
+
+wistful, plaintive, pensive, mournful, 
+
+craven, servile, pusillanimous, 
+
+fabulous, outrageous, astounding, fictitious, fanciful, tremendous, extravagant, phenomenal, 
+
+pioneer, avant-garde, nascent, precursor, instate, apostle, original, initiate, founder, 
+
+belie, distort, gainsay, prevaricate, disprove, repudiate, garble, contradict, contravene, 
+
+exasperate, incense, exacerbate, pique, nettle, vex, agitate, irritate, aggravate, irk, rankle, infuriate, gall, grate, rile, 
+
+bane, blight, anathema, affliction, scourge, 
+
+reluctant, squeamish, wary, chary, averse, balky, circumspect, tentative, loath, 
+
+heckle, harass, faze, taunt, discomfit, ridicule, bait, bully, gibe, badger, disconcert, boo, embarrass, 
+
+ensconce, cache, secrete, conceal, 
+
+quench, allay, suppress, satiate, slake, extinguish, assuage, sate, douse, smother, squelch, quash, alleviate, subdue, quell, dampen, 
+
+cessation, terminus, finale, deadlock, arrest, 
+
+diversity, montage, variance, medley, vicissitude, 
+
+hideous, macabre, morbid, heinous, grisly, 
+
+pitiless, mean, harsh, insensible, callous, obdurate, barbarous, inclement, frigid, inexorable, austere, 
+
+treacherous, ticklish, duplicitous, fraudulent, ominous, insubordinate, perilous, slippery, precarious, incendiary, 
+
+unsung, 
+
+intuitive, automatic, inherent, spontaneous, perceptive, 
+
+blunt, forthright, mollify, bluff, stolid, debilitate, barefaced, trenchant, sap, numb, mitigate, succinct, explicit, churlish, curt, dampen, 
+
+condign, 
+
+mentor, champion, sage, 
+
+gust, squall, paroxysm, blast, 
+
+exalt, acclaim, aggrandize, eulogize, venerate, lionize, exhilarate, ennoble, commend, extol, deify, adore, intensify, animate, 
+
+emaciate, irrigate, diminish, squander, exhaust, macerate, refine, prune, lavish, attenuate, divert, 
+
+irrigate, imbibe, inundate, dilute, soak, flush, adulterate, tamper, 
+
+blight, affliction, mar, scourge, 
+
+absolute, arbitrary, univocal, axiomatic, peremptory, infinite, unassailable, assertive, explicit, despotic, 
+
+provincial, insular, parochial, petty, boorish, sectarian, rustic, 
+
+opaque, obtuse, arcane, vague, ambiguous, gloomy, impenetrable, murky, frosty, 
+
+jingoist, belligerent, partisan, warmonger, 
+
+scrimp, curtail, stint, retrench, skimp, scant, 
+
+expiate, absolve, atone, redeem, 
+
+fanatic, xenophobe, demagogue, partisan, zealot, disciple, sectarian, votary, stickler, visionary, addict, 
+
+rupture, schism, rend, rift, valediction, fracture, breach, partition, sunder, 
+
+disinclination, demur, antipathy, 
+
+embrace, encompass, clasp, cherished, cling, proselytize, 
+
+beset, strike, assail, nudge, infatuate, importune, beleaguer, haunt, encompass, badger, obsess, coerce, embarrass, 
+
+self-absorbed, egoistic, narcissistic, 
+
+strike, hew, boycott, peck, bash, hammer, vaporize, lash, clout, 
+
+fluky, random, accidental, 
+
+preponderant, dominant, paramount, 
+
+finicky, squeamish, captious, fastidious, painstaking, scrupulous, exacting, prudish, fussy, 
+
+spoof, burlesque, sham, lampoon, bluff, mockery, travesty, satirize, hoax, perfidy, caricature, jest, parody, canard, 
+
+wit, burlesque, gag, banter, wag, repartee, levity, acumen, humor, sanity, jest, 
+
+lank, puny, rickety, ethereal, attenuate, careworn, fragile, 
+
+transitory, fleeting, transient, evanescent, ephemeral, temporal, 
+
+pontificate, harangue, swagger, preach, admonish, 
+
+avid, devoted, solicitous, acquisitive, fervent, covetous, agog, voracious, 
+
+epicure, glutton, connoisseur, sybarite, gourmet, 
+
+exhort, goad, preach, entreat, prod, admonish, beseech, 
+
+sere, arid, 
+
+splice, graft, yoke, mesh, knit, 
+
+secular, worldly, temporal, 
+
+sanctuary, asylum, haven, harbor, 
+
+emulate, reflect, mimic, contend, 
+
+fickle, arbitrary, ticklish, frivolous, mercurial, fitful, volatile, giddy, inconsistent, wayward, skittish, 
+
+vitality, verve, eclat, vim, stamina, clout, 
+
+fateful, inevitable, minatory, momentous, ominous, crucial, acute, portentous, 
+
+headlong, hasty, rash, tempestuous, reckless, impetuous, daredevil, precipitate, 
+
+knotty, elaborate, sophisticated, thorny, formidable, 
 
 inkling, 
 
-knit, 
+incense, balm, pique, irritate, infuriate, inflame, rile, 
 
-mannered, 
+intelligible, luminous, lucid, limpid, 
 
-lug, lurch, 
+inure, acclimate, 
 
-licentious, 
+ameliorate, mollify, mitigate, alleviate, recuperate, 
+
+squeamish, captious, fastidious, scrupulous, exacting, prudish, fussy, 
+
+varnish, veneer, gloss, gild, patina, wax, showmanship, palliate, enamel, 
+
+demotic, 
+
+obsequious, subject, complacent, servile, ingratiating, abject, compliant, prostrate, subservient, menial, unctuous, subordinate, 
+
+cache, accumulate, hoard, secrete, conceal, 
+
+culminate, 
+
+negligent, offhand, imprecise, cursory, lax, slapdash, remiss, perfunctory, dilatory, reckless, inadvertent, derelict, slack, nonchalant, 
+
+salve, balm, mollify, assuage, salvage, alleviate, flatter, emollient, 
+
+myriad, legion, untold, mint, infinite, multifarious, slew, 
+
+pedagogical, 
+
+inevitable, implicit, automatic, ineluctable, impending, spontaneous, inexorable, willy-nilly, 
+
+rage, umbrage, mania, furor, fulminate, bristle, fury, delirium, paroxysm, rave, bombast, frenzy, 
+
+groove, proclivity, predilection, notch, rapport, 
+
+trepidation, consternation, apprehension, palpitation, dread, 
+
+brook, stomach, countenance, 
+
+overweening, insolent, supercilious, presumptuous, overbearing, imperious, 
+
+balm, solace, prescription, compound, emollient, 
+
+simile, metaphor, 
+
+atrocious, infamous, scandalous, barbarous, heinous, nefarious, vicious, wicked, diabolic, 
+
+subsidy, largesse, 
+
+extort, extract, evoke, evince, blackmail, milk, swindle, coerce, soak, wrest, elicit, 
+
+vulnerable, frail, subject, sinecure, tender, verisimilar, susceptible, 
+
+scission, 
+
+pastiche, burlesque, hodgepodge, lampoon, imitation, patchwork, medley, caricature, parody, 
+
+dogmatic, arbitrary, pragmatic, doctrinaire, hidebound, peremptory, assertive, obstinate, despotic, overbearing, chauvinistic, 
+
+ecstasy, paradise, euphoria, delirium, nirvana, frenzy, 
+
+mangle, distort, hamstring, rend, lacerate, contort, hack, 
+
+ribald, sly, coarse, vulgar, philistine, racy, 
+
+repel, confront, parry, rebuff, antagonize, repulse, nauseate, traverse, revolt, 
+
+instill, suffuse, engender, infuse, diffuse, disseminate, indoctrinate, 
+
+disenchant, exacerbate, alienate, irritate, disabuse, hamper, disconcert, enlighten, baffle, bore, dishearten, debunk, 
+
+harangue, sermon, preach, tirade, diatribe, monologue, rant, rave, 
+
+placid, sedate, imperturbable, impassive, reserved, halcyon, serene, 
+
+scrappy, mean, aggressive, feisty, contentious, 
+
+ossify, petrify, congeal, indurate, 
+
+aggregate, constitute, compound, integral, 
+
+smirk, leer, sneer, grin, 
+
+combustible, volatile, skittish, incendiary, 
+
+entail, evoke, entangle, tangle, encompass, 
+
+stalwart, staunch, intrepid, solid, husky, partisan, redoubtable, bound, stouthearted, tenacious, 
+
+authentic, incontrovertible, original, 
+
+acclaim, aggrandize, kudos, eulogize, lionize, commend, extol, applause, approbation, tout, rave, 
+
+preeminent, consummate, eminent, omniscient, dominant, paramount, cardinal, 
+
+evict, banish, oust, chase, 
+
+estimable, appreciable, sterling, exemplary, 
+
+outrageous, infamous, outlandish, brazen, preposterous, scandalous, ill-bred, heinous, nefarious, scurvy, wicked, 
+
+prospect, sift, aspect, delve, 
+
+grovel, fawn, welter, humor, creep, court, cower, flatter, beseech, 
+
+foible, typo, idiosyncrasy, peculiarity, 
+
+staunch, devoted, retentive, steadfast, unflagging, sound, stiff, dogged, tenacious, 
+
+intrepid, chivalrous, gallant, valiant, audacious, 
+
+distort, misconstrue, prevaricate, travesty, garble, distend, 
+
+sprawl, slouch, founder, loll, 
+
+etch, compose, emboss, delineate, 
+
+blatant, strident, garish, brazen, tawdry, brassy, barefaced, meretricious, conspicuous, impudent, overt, palpable, vulgar, gaudy, 
+
+paean, chorale, 
+
+miserly, mean, chary, measly, sordid, abject, covetous, parsimonious, mercenary, scotch, churlish, tightfisted, stingy, 
+
+circuitous, tortuous, serpentine, oblique, sinuous, 
+
+arbitrary, frivolous, offhand, willful, whimsical, fanciful, random, peremptory, erratic, discretionary, inconsistent, supercilious, wayward, haphazard, superficial, wrongheaded, 
+
+scintillate, gleam, glisten, 
+
+articulate, concatenate, facile, glib, voluble, rhetorical, fluent, enunciate, 
+
+licentious, libertine, lax, carnal, dissolute, rakish, 
+
+autocracy, 
+
+frail, impuissance, tender, impotent, puny, decrepit, tenuous, slight, feeble, rickety, infirm, brittle, anemic, fragile, 
+
+obfuscate, obscure, confound, befuddle, adumbrate, overshadow, conceal, baffle, complicate, 
+
+calligraphy, scrawl, manuscript, scribble, 
+
+deficiency, default, dearth, glitch, privation, 
+
+mesmeric, hypnotic, glamorous, 
+
+aver, justify, postulate, swear, assert, affirm, proclaim, verify, contend, 
+
+traumatic, macabre, grisly, 
+
+ticklish, mercurial, volatile, thorny, awkward, perilous, precarious, 
+
+gambol, bound, revel, 
+
+hermetic, recondite, impervious, impenetrable, esoteric, occult, 
+
+perspicuity, clarity, 
+
+abhor, deplore, execrate, loathe, disdain, despise, scorn, abominate, detest, 
+
+raspy, 
+
+demolition, 
+
+stratify, 
+
+green, naive, puerile, tender, ingenuous, callow, dilettante, supple, immature, gauche, lush, credulous, verdant, 
+
+valorize, 
+
+abandon, surrender, relinquish, abdicate, jettison, repudiate, supersede, resign, forfeit, forsake, renounce, eschew, withdraw, evacuate, 
+
+astounding, tremendous, portentous, uncanny, prodigious, 
+
+sophism, quibble, 
+
+ally, accessory, amalgamate, 
+
+clarity, 
+
+pillory, 
+
+mundane, commonplace, worldly, blasé, prosaic, humdrum, pedestrian, temporal, 
+
+coltish, whimsical, antic, playful, sprightly, mischievous, 
+
+overwrought, garish, spent, distraught, 
+
+bulge, outgrowth, salient, balloon, protrude, 
+
+strand, 
+
+ungainly, clumsy, awkward, ham-handed, clownish, uncouth, maladroit, gawky, stiff, loutish, 
+
+indecorous, facetious, uncouth, vulgar, 
+
+pragmatic, officious, empirical, sober, 
+
+partial, tendentious, partisan, 
+
+discretion, finesse, tact, acumen, volition, teetotalism, 
+
+extract, evoke, deracinate, pluck, pry, glean, rive, milk, withdraw, wrest, elicit, distill, 
+
+goad, nettle, harass, hasten, embolden, foment, badger, prod, zeal, abet, incentive, provoke, spur, instigate, coerce, 
+
+bruit, propagate, promulgate, blazon, disseminate, 
+
+ingrained, chronic, irradicable, inherent, indelible, inveterate, intrinsic, 
+
+umbrage, pique, infuriate, chagrin, grudge, fury, miff, rancor, shadow, 
+
+subject, gist, apt, conditional, subservient, amenable, verisimilar, subsidiary, susceptible, issue, content, 
+
+plummet, collapse, descend, plunge, precipitate, 
+
+dissonance, jarring, dissension, variance, cacophony, discord, discrepancy, 
 
 laudatory, 
 
-mime, 
+consign, dispatch, issue, 
 
-matriculate, 
+vociferous, strident, vehement, obstreperous, boisterous, 
 
-judicious, 
+lapse, regress, lull, infraction, deterioration, expire, relapse, breach, delusion, blunder, interregnum, backslide, 
 
-meticulous, methodical, 
+burlesque, ludicrous, lampoon, mockery, farce, travesty, satirize, caricature, strip, parody, sarcasm, 
 
-knack, 
+offbeat, fanciful, bohemian, distinctive, 
 
-meek, 
+rapscallion, miscreant, 
 
-intemperate, 
+censor, suppress, withhold, repress, abridge, expurgate, 
 
-insurgent, insubordinate, 
+finesse, savvy, tact, acumen, guile, stratagem, ruse, mastery, 
 
-interim, interregnum, 
+exacerbate, vex, irritate, aggravate, provoke, compound, inflame, intensify, 
 
-inherent, intuitive, latent, 
+commotion, turmoil, tumult, bustle, squall, convulsion, furor, revolt, fluster, pandemonium, 
 
-luminary, 
+husband, consort, 
 
-intelligible, lucid, 
+mean, ragged, sparing, measly, mangy, epitomize, humble, belligerent, servile, callous, contemplate, testy, vile, petty, obdurate, fretful, plebeian, parsimonious, strenuous, subservient, mordant, scotch, mediocre, malicious, menial, tightfisted, vicious, vulgar, philistine, fractious, petulant, dyspeptic, stingy, 
 
-innocuous, 
+animus, enmity, grudge, antipathy, rancor, revenge, 
 
-list, jot, 
+obloquy, reproach, abuse, censure, aspersion, notoriety, odium, invective, stricture, slur, ignominy, 
 
-lissome, lithe, 
+sepulchral, obscure, dreary, morbid, somber, mournful, 
 
-malinger, 
+sham, fictitious, pretense, subterfuge, fraudulent, bluff, mockery, farce, quack, meretricious, malinger, travesty, feign, affectation, dissemble, bogus, ruse, impostor, caricature, charlatan, 
 
-loath, 
+hypocritical, captious, duplicitous, fraudulent, bland, sanctimonious, glib, impious, 
 
-mangy, 
+ragged, threadbare, tatty, desultory, serried, moth-eaten, dingy, 
 
-jibe, 
+wastrel, prodigal, spendthrift, profligate, 
 
-methodical, 
+amorphous, nebulous, nondescript, vague, inchoate, 
 
-invincible, 
+enmity, spleen, grudge, antipathy, rancor, 
 
-leery, 
+purloin, embezzle, poach, pilfer, swindle, 
 
-jog, jolt, 
+ramification, outgrowth, sequel, consequence, sequela, partition, 
 
-jot, 
+diminish, defuse, extenuate, curtail, depreciate, subside, dwindle, lag, taper, wilt, detract, abbreviate, shrink, retrench, abridge, abase, wane, dilute, abate, wizen, dampen, 
 
-meager, 
+hasty, rash, cursory, slapdash, brisk, facile, irascible, reckless, impetuous, tactless, 
 
-kindred, 
+indulgent, lenient, compliant, voluptuous, favorable, liberal, 
 
-malaise, 
+enfranchise, emancipate, manumit, 
 
-languish, 
+condole, commiserate, soothe, console, 
 
-mendacious, 
+politic, judicious, perspicacious, shrewd, urbane, prudent, provident, circumspect, discreet, diplomatic, canny, 
+
+astute, judicious, perspicacious, shrewd, savvy, sly, wily, cunning, sapient, perceptive, diplomatic, canny, 
+
+monochromatic, flush, 
+
+superfluous, gratuitous, lavish, extravagant, redundant, extraneous, 
+
+infamous, scandalous, vile, heinous, vicious, despicable, 
+
+ancillary, accessory, subservient, subsidiary, concomitant, subordinate, 
+
+dormant, lethargic, stagnant, fallow, supine, latent, quiescent, inert, slack, torpid, 
+
+forbearance, 
+
+rescind, recant, annul, retract, taper, renege, repeal, repudiate, abrogate, quash, withdraw, revoke, 
+
+tangible, manifest, appreciable, perceptible, palpable, tactile, phenomenal, patent, somatic, 
+
+defuse, mollify, moderate, alleviate, soothe, subdue, 
+
+ambivalent, timid, inconclusive, willy-nilly, 
+
+hone, refine, whet, 
+
+catharsis, 
+
+avant-garde, innovative, liberal, 
+
+nerve, hauteur, invigorate, grit, mettle, hubris, pluck, gall, indurate, stomach, calcify, 
+
+corrugated, 
+
+rash, madcap, spate, immature, audacious, reckless, presumptuous, impetuous, imprudent, 
+
+judicious, perspicacious, shrewd, rational, prudent, sober, sapient, provident, circumspect, acute, perceptive, diplomatic, cognizant, levelheaded, canny, 
+
+persistence, grit, pluck, stamina, 
+
+tinge, suffuse, nuance, infiltrate, pigment, cast, 
+
+mandatory, imperative, requisite, compelling, indispensable, imperious, prerequisite, 
+
+provisional, interim, empirical, provisory, transient, conditional, ad hoc, tentative, ephemeral, 
+
+legion, throng, voluminous, flock, 
+
+protract, dilate, procrastinate, drawl, prolong, defer, 
+
+snare, pitfall, entangle, entrap, bait, pilfer, chimera, seduce, 
+
+surrender, concede, relinquish, abdicate, capitulate, succumb, resign, forfeit, forsake, renounce, 
+
+default, dearth, renege, slight, privation, 
+
+coeval, concomitant, 
+
+deft, facile, dexterous, apt, fleet, limber, proficient, diplomatic, wicked, ingenious, 
+
+cogent, telling, pertinent, apposite, momentous, apt, relevant, compelling, fluent, pithy, 
+
+fictitious, counterfeit, fallacious, apocryphal, fanciful, spurious, bogus, 
+
+squander, exhaust, lavish, 
+
+allegiance, fidelity, homage, obeisance, ardor, 
+
+frivolous, trivial, trifling, madcap, giddy, facetious, petty, inane, skittish, superficial, idle, 
+
+consternation, dread, awe, 
+
+strident, jarring, harsh, stentorian, clarion, earsplitting, resonant, obstreperous, boisterous, 
+
+xenophobe, doctrinaire, sectarian, 
+
+ludicrous, outlandish, antic, preposterous, fatuous, absurd, drollness, extravagant, grotesque, 
+
+succor, 
+
+pique, nettle, intrigue, vex, motivate, irritate, galvanize, irk, tiff, grudge, ignite, kindle, gall, miff, rancor, whet, rile, 
+
+sermon, preach, tirade, monologue, homily, 
+
+doldrums, malaise, ennui, torpor, stupor, 
+
+offhand, cursory, perfunctory, blasé, aloof, glib, impromptu, spontaneous, offish, curt, haphazard, nonchalant, 
+
+fail-safe, sound, foolproof, 
+
+arid, jejune, septic, torrid, insipid, tedious, drab, dreary, barren, humdrum, lackluster, vapid, 
+
+manifest, appreciable, demonstrate, axiomatic, exude, barefaced, conspicuous, ostensible, reflect, overt, palpable, substantiate, patent, 
+
+garish, brazen, tawdry, brassy, meretricious, ostentatious, vulgar, gaudy, extravagant, 
+
+retribution, revenge, penance, 
+
+doyen, connoisseur, bellwether, authority, 
+
+imprecise, nebulous, vague, infinite, 
+
+incumbent, compelling, 
+
+hodgepodge, montage, patchwork, medley, 
+
+nitpick, carp, quibble, cavil, 
+
+embezzle, forge, abstract, pilfer, 
+
+defray, redeem, 
+
+impuissance, clumsy, impotent, feeble, anemic, fragile, 
+
+constrain, gag, stifle, check, confine, immure, bridle, withhold, moderate, abstain, detain, intimidate, coerce, 
+
+compose, allay, slake, fabricate, mollify, negotiate, construct, constitute, smother, rein, repress, compound, reconcile, 
+
+predestine, consequence, doom, issue, 
+
+tardy, dilatory, slack, 
+
+gratuitous, spontaneous, groundless, eleemosynary, 
+
+disregard, illiteracy, rebuff, contempt, apathy, condone, slight, disdain, snub, flout, scorn, breach, defy, spurn, 
+
+sparing, wary, chary, prudent, frugal, provident, parsimonious, abstemious, scotch, taciturn, stingy, canny, 
+
+cajole, beguile, fawn, entrap, coax, dupe, inveigle, tantalize, entice, maneuver, induce, flatter, seduce, 
+
+untold, gigantic, self-perpetuating, infinite, 
+
+jejune, trite, trifling, puerile, insipid, callow, bland, immature, meager, inane, barren, vapid, innocuous, 
+
+browbeat, harass, bluster, daunt, domineer, cow, bully, badger, intimidate, coerce, 
+
+soothsayer, augur, 
+
+alienate, antagonize, estrange, 
+
+outset, commencement, inception, onset, 
+
+minatory, aggressive, impending, baleful, dire, 
+
+obtuse, crass, stolid, 
+
+emboss, 
+
+extenuate, justify, downplay, debilitate, mitigate, moderate, qualify, attenuate, palliate, 
+
+excrete, exude, secrete, evacuate, 
+
+hauteur, contempt, disdain, gall, 
+
+outgrowth, derivative, consequence, 
+
+gag, pretense, suppress, mute, anecdote, stifle, obstruct, muffle, retort, hoax, humor, ruse, caprice, jest, 
+
+bliss, paradise, euphoria, nirvana, 
+
+verve, panache, zeal, eclat, vim, ardor, stamina, 
+
+recondite, arcane, cryptic, esoteric, occult, abstruse, 
+
+thick-skinned, callous, imperturbable, 
+
+crumple, collapse, 
+
+incinerate, scorch, ignite, parch, singe, 
+
+affix, graft, knit, annex, 
+
+allay, slake, mollify, assuage, solace, mitigate, moderate, alleviate, soothe, abate, quell, dampen, palliate, 
+
+nugatory, trivial, inconsequential, trifling, piddling, unavailing, idle, 
+
+schism, dissent, dissension, rift, fracture, faction, discord, heresy, 
+
+indict, inculpate, censure, summon, incriminate, 
+
+dilate, balloon, explicate, prolong, distend, wax, 
+
+dent, notch, 
+
+nascent, embryonic, fledgling, original, incipient, inchoate, 
+
+plump, 
+
+svelte, lithe, supple, 
+
+anathema, censure, pariah, reproof, 
+
+pretense, euphemism, cloak, veneer, mockery, masquerade, affectation, ruse, humbug, 
+
+dissolve, annul, suspend, collapse, discharge, adjourn, 
+
+transfigure, metamorphose, 
+
+scoff, discredit, ridicule, gibe, disdain, flout, scorn, sneer, chaff, boo, deride, spurn, 
+
+conjure, evoke, invoke, summon, importune, entrance, exorcise, crave, entreat, beseech, supplicate, 
+
+embryonic, immature, incipient, inchoate, rudimentary, 
+
+preface, prologue, usher, overture, 
+
+salutation, encomium, tribute, 
+
+donor, 
+
+paranoid, 
+
+plausible, tenable, glib, ostensible, sound, 
+
+syllogism, argument, ratiocination, 
+
+blithe, vivacious, facetious, jaunty, playful, jocular, sprightly, jovial, buoyant, carefree, 
+
+nullification, repeal, negation, 
+
+crass, boorish, churlish, ostentatious, uncouth, coarse, vulgar, loutish, 
+
+insular, parochial, petty, secluded, 
+
+untoward, awkward, inimical, fractious, recalcitrant, 
+
+symbiosis, 
+
+trivial, inconsequential, trite, diminutive, minute, measly, futile, commonplace, puerile, quotidian, venial, puny, petty, slight, piddling, evanescent, unavailing, superficial, idle, 
+
+suppress, stifle, muffle, tame, extinguish, bridle, withhold, subvert, smother, subjugate, rein, repress, harbor, quash, subdue, coerce, conceal, quell, 
+
+hallmark, 
+
+shroud, cloak, eclipse, pall, dissemble, secrete, camouflage, shadow, 
+
+fleeting, cursory, volatile, meteoric, transient, evanescent, ephemeral, 
+
+nettle, vex, irritate, irk, tiff, rankle, roil, miff, ruffle, rile, 
+
+metaphor, trope, hyperbole, oxymoron, 
+
+equity, probity, proprietary, rectitude, integrity, 
+
+pitfall, typo, snag, swindle, mesh, 
+
+inconsequential, trifling, measly, puny, petty, 
+
+hierarchical, 
+
+mendacious, fallacious, duplicitous, fraudulent, spurious, disingenuous, shifty, 
+
+acrimonious, captious, belligerent, irascible, testy, irate, churlish, acerbic, stringent, acrid, petulant, caustic, 
+
+suffuse, permeate, infuse, flush, pervade, 
+
+bravado, bluster, bluff, rant, bombast, 
+
+trite, bromide, insipid, prosaic, hackneyed, moth-eaten, pedestrian, 
+
+abnegate, recant, relinquish, abdicate, abstain, 
+
+willful, contumacious, refractory, obstinate, adamant, intransigent, mulish, fractious, dogged, deliberate, 
+
+coronation, 
+
+hew, prune, cleave, hack, 
+
+assess, discriminate, check, apprise, gauge, 
+
+natty, chic, dapper, 
+
+whimsical, outlandish, fanciful, erratic, puckish, playful, drollness, mischievous, grotesque, 
+
+devoted, solicitous, committed, fervid, steadfast, obedient, devout, enamored, 
+
+septic, futile, lethal, impotent, barren, noxious, malignant, pernicious, 
+
+stodgy, plodding, ponderous, turgid, tedious, monotonous, dreary, pedestrian, 
+
+harass, exhaust, vex, infatuate, irk, bait, rankle, bully, excruciate, badger, obsess, tantalize, persecute, discommode, intimidate, 
+
+abreast, acquainted, conversant, 
+
+turmoil, tumult, welter, bustle, maelstrom, fluster, pandemonium, frenzy, 
+
+solicitous, tender, apprehensive, earnest, 
+
+hedonism, 
+
+tumult, fracas, clamor, bustle, maelstrom, convulsion, furor, discord, pandemonium, 
+
+complacent, egoistic, smug, imperturbable, serene, 
+
+spartan, frugal, ascetic, laconic, austere, 
+
+monolithic, solid, permanent, gigantic, elephantine, imposing, gargantuan, colossal, 
+
+pittance, modicum, scrap, mite, 
+
+potable, palatable, edible, 
+
+arcane, obscure, cryptic, impenetrable, esoteric, occult, 
+
+sumptuous, plush, lush, palatial, luxurious, lavish, extravagant, magnificent, 
+
+virtuous, wholesome, exemplary, 
+
+segment, strip, 
+
+translucent, transparent, luminous, diaphanous, lucid, pellucid, limpid, gossamer, 
+
+macabre, lurid, morbid, grisly, 
+
+evoke, invoke, summon, evince, rouse, provoke, milk, elicit, 
+
+gloat, swagger, relish, rejoice, bluster, vaunt, goggle, leer, 
+
+imperative, dominant, insolent, crucial, ethics, compelling, indispensable, acute, overbearing, imperious, exigent, prerequisite, 
+
+swagger, flourish, strut, bluster, panache, grandstand, domineer, bully, saunter, brandish, 
+
+typo, glitch, blemish, blunder, 
+
+gainsay, refute, disprove, repudiate, traverse, contradict, contravene, 
+
+curtail, contract, abbreviate, retrench, truncate, abridge, 
+
+pecuniary, 
+
+illuminati, sage, savant, 
+
+mute, muffle, soft-pedal, subdue, taciturn, dampen, 
+
+wary, chary, prudent, frugal, provident, circumspect, discreet, vigilant, leery, cagey, canny, 
+
+sectarianism, dissent, 
+
+concoct, fabricate, simulate, improvise, compound, project, 
+
+conservatory, 
+
+cursory, slapdash, desultory, perfunctory, facile, random, slight, haphazard, superficial, 
+
+chary, fastidious, prudent, frugal, circumspect, scotch, discreet, leery, cagey, loath, stingy, canny, 
+
+procrastinate, linger, suspend, lag, dawdle, goldbrick, prolong, adjourn, defer, 
+
+equilibrium, symmetry, 
+
+jolt, startle, galvanize, jog, nip, 
+
+sinecure, pushover, 
+
+egoistic, smug, narcissistic, misanthropic, 
+
+dart, flit, bound, cast, 
+
+delineate, 
+
+cliquish, parochial, partisan, chic, sectarian, lofty, esoteric, 
+
+accumulate, hoard, deposit, acquire, concentrate, procure, glean, amalgamate, 
+
+regress, relapse, backslide, 
+
+trifling, measly, insipid, petty, levity, slight, inane, nominal, piddling, unavailing, minuscule, idle, 
+
+concede, relinquish, capitulate, accord, vouchsafe, accede, 
+
+disquisition, monologue, 
+
+interim, idyll, breach, interregnum, 
+
+nicety, nuance, quibble, 
+
+confront, flout, scorn, contradict, tackle, defy, meet, contend, 
+
+replete, awash, fraught, pregnant, teeming, lavish, 
+
+doctrinaire, sectarian, obstinate, pedant, mulish, dogged, pertinacious, 
+
+aggressive, belligerent, precocious, strenuous, contentious, rampant, resourceful, 
+
+ravel, 
+
+anecdote, 
+
+hard-bitten, solid, callous, impenetrable, indurate, stiff, 
+
+faze, vex, daunt, irritate, cow, confound, discomfit, abash, impede, nonplus, disconcert, appall, baffle, embarrass, 
+
+counterfeit, imitation, fabricate, apocryphal, fraudulent, simulate, replicate, quack, meretricious, spurious, substitute, feign, dissemble, bogus, 
+
+dissent, demur, dissension, variance, diverge, discord, contradict, heresy, 
+
+eternal, incessant, permanent, interminable, self-perpetuating, abiding, immutable, unremitting, perpetual, infinite, imperishable, metaphysical, everlasting, relentless, 
+
+intrigue, connive, machination, chicanery, collude, enthrall, fascinate, captivate, 
+
+outlandish, preposterous, awkward, boorish, barbarous, extravagant, grotesque, 
+
+incessant, interminable, self-perpetuating, unremitting, perpetual, monotonous, infinite, everlasting, relentless, 
+
+aggrieve, abuse, miff, 
+
+appreciable, substantial, considerable, perceptible, palpable, 
+
+demur, cavil, vacillate, remonstrance, recoil, 
+
+assail, berate, abuse, lambaste, malign, bash, waylay, blast, 
+
+naive, forthright, puerile, ingenuous, callow, credulous, aboveboard, 
+
+travail, flounder, drudgery, 
+
+ingest, imbibe, 
+
+adversary, 
+
+transparent, permeable, diaphanous, lucid, pellucid, limpid, gossamer, 
+
+recant, annul, retract, renege, repudiate, contradict, abjure, renounce, revoke, vitiate, 
+
+wither, contract, dwindle, wilt, perish, collapse, scorch, shrink, atrophy, parch, wane, languish, wizen, 
+
+banter, taunt, mockery, ridicule, flirt, repartee, badinage, persiflage, chaff, satirize, humor, deride, jest, sarcasm, 
+
+connive, collude, 
+
+gripe, grumble, murmur, affliction, sulk, carp, mutter, 
+
+forthright, aboveboard, 
+
+cliché, commonplace, bromide, truism, platitude, stereotype, 
+
+filter, winnow, exude, trickle, refine, permeate, sift, distill, 
+
+perspicacious, shrewd, savvy, acute, perceptive, 
+
+averse, balky, hidebound, inimical, chauvinistic, loath, 
+
+unflappable, sedate, stoic, imperturbable, impassive, nonchalant, deliberate, levelheaded, serene, 
+
+pine, agonize, hanker, grieve, crave, languish, 
+
+antic, stunt, playful, grotesque, 
+
+safeguard, chaperone, cherished, escort, 
+
+polemic, belligerent, tiff, row, wrangle, spat, scrap, 
+
+jarring, harsh, brassy, off-key, discord, 
+
+lurch, oscillate, stammer, dodge, careen, reel, flounder, lug, swerve, tilt, falter, teeter, 
+
+obscure, cryptic, obstruct, cloak, humble, vague, obliterate, adumbrate, ambiguous, blur, garble, provisory, conditional, murky, turbid, lackluster, dingy, conceal, esoteric, complicate, occult, camouflage, secluded, abstruse, shadow, muddy, 
+
+harsh, ruthless, tangy, husky, brassy, dour, obdurate, inclement, exacting, onerous, churlish, inexorable, vitriolic, acerbic, coarse, tactless, austere, stiff, stringent, acrid, grueling, relentless, arduous, caustic, 
+
+flourish, panache, eclat, oxymoron, 
+
+innovative, original, ingenious, 
+
+dovish, 
+
+vindictive, ruthless, baleful, malicious, malignant, relentless, 
+
+diminutive, minute, puny, minuscule, 
+
+designate, particularize, stipulate, qualify, delegate, stigmatize, 
+
+plodding, ponderous, flounder, lumber, monotonous, humdrum, trudge, pedestrian, 
+
+influx, entrance, 
+
+ubiquitous, 
+
+fallacious, fraudulent, spurious, 
+
+pertain, 
+
+depreciate, dwindle, decry, detract, abate, 
+
+lament, agonize, elegy, deplore, grieve, rue, repine, 
+
+minute, painstaking, slight, scrupulous, meticulous, cramped, minuscule, mite, 
+
+preach, admonish, advocate, 
+
+resent, grudge, miff, 
+
+cryptic, apocryphal, terse, vague, ambiguous, murky, esoteric, abstruse, 
+
+lull, mollify, idyll, croon, truce, tranquility, somnolence, respite, abeyance, soothe, interregnum, lullaby, 
+
+genial, upbeat, amicable, benign, affable, congenial, agreeable, jovial, 
+
+mercurial, volatile, expansive, erratic, inconsistent, buoyant, elastic, 
+
+charisma, allure, panache, 
+
+deplorable, dolorous, infelicitous, scandalous, abject, dire, wretched, 
 
 misconstrue, 
 
-irate, 
+flit, bustle, fleet, glide, 
 
-insulate, 
+topsy-turvy, disjointed, 
 
-mercurial, 
+bumptious, impudent, 
 
-lustrous, 
+sedate, dignified, dispassionate, sober, decorous, imperturbable, earnest, somber, reserved, deliberate, serene, 
 
-maladroit, 
+nudge, badger, prod, jog, bore, 
 
-jest, jape, 
+consummate, polished, inimitable, proficient, 
 
-lachrymose, 
+telling, solid, pungent, considerable, trenchant, crucial, conspicuous, sound, 
 
-interregnum, 
+homely, unpretentious, 
 
-mediocre, 
+implicit, inherent, steadfast, latent, tacit, 
 
-migratory, itinerant, 
+trope, apprehension, construct, 
 
-masquerade, 
+salient, pertinent, signal, obtrusive, trenchant, conspicuous, arresting, 
 
-jarring, 
+sanitary, pristine, wholesome, salubrious, 
 
-manifest, 
+canvass, agitate, check, scrutinize, sift, 
 
-insolent, insubordinate, 
+shrewd, sly, prudent, wily, serpentine, cunning, provident, acute, subtle, perceptive, cagey, ingenious, canny, shifty, 
 
-invigorate, 
+anesthetic, soporific, hypnotic, anodyne, 
 
-medley, 
+ruthless, callous, barbarous, inclement, malevolent, ferocious, vicious, relentless, 
 
-loll, 
+convene, summon, convoke, 
 
-intrigue, 
+hoard, deposit, inventory, 
 
-intimate, 
+argument, dissension, variance, spat, imbroglio, issue, 
 
-ken, 
+fitful, restless, desultory, restive, random, erratic, disjointed, intermittent, sporadic, haphazard, 
 
-instill, 
+digress, veer, meander, diverge, swerve, stray, 
 
-jolt, 
+concatenate, 
 
-jocund, 
+polished, elaborate, urbane, glossy, sleek, slippery, cosmopolitan, exquisite, lustrous, 
 
-intermittent, 
+stunt, fiasco, exploit, ruse, maneuver, 
 
-manuscript, 
+hamstring, obstruct, debilitate, hamper, hobble, 
 
-jaundice, 
+invigorate, galvanize, fortify, embolden, regenerate, resuscitate, exhilarate, revive, 
 
-maverick, 
+clan, kindred, faction, 
 
-intuitive, 
+exhaust, debilitate, sap, fatigue, enervate, milk, effluvium, bore, 
 
-juggernaut, 
+chaperone, usher, escort, 
 
-levity, 
+beguile, cozen, allure, engross, manipulate, entrap, enthrall, coax, fascinate, exploit, dupe, captivate, entice, circumvent, seduce, 
 
-jovial, jaunty, 
+prodigal, abundant, intemperate, lush, reckless, spendthrift, profligate, lavish, extravagant, 
 
-measured, 
+measly, puny, petty, meager, piddling, stingy, 
 
-interlock, 
+indigent, mangy, needy, impecunious, 
 
-luxurious, 
+don, 
 
-jape, 
+bedeck, array, embroider, gild, 
 
-menace, intimidate, 
+dolt, sap, simpleton, oaf, 
 
-jettison, 
+jargon, palaver, balderdash, rigmarole, babble, bombast, 
 
-kidnap, 
+moratorium, truce, respite, abeyance, reprieve, 
 
-meteoric, 
+scads, 
 
-intangible, 
+vituperate, reproach, berate, abuse, lambaste, castigate, censure, denounce, condemn, fulminate, malign, upbraid, inveigh, 
 
-jubilant, 
+annul, neutralize, override, retract, repeal, supersede, abrogate, quash, revoke, vitiate, 
 
-lethargic, 
+peddle, 
 
-intimidate, 
+smattering, modicum, 
 
-milk, 
+altruism, comity, 
 
-malign, 
+immanent, inherent, intrinsic, 
 
-mentor, 
+zesty, tangy, pungent, piquant, savory, acrid, racy, caustic, 
 
-liability, 
+profusion, plethora, ream, surfeit, cornucopia, glut, slew, 
 
-jargon, 
+vex, agitate, irritate, beleaguer, irk, discomfit, rankle, roil, infuriate, chagrin, gall, harry, discommode, miff, discompose, embarrass, rile, 
 
-issue, mint, 
+boggle, startle, bungle, nonplus, overwhelm, 
+
+intercessor, 
+
+gist, crux, 
+
+substantive, 
+
+ceremonious, punctilious, dignified, majestic, decorous, seemly, theatrical, grandiose, stiff, 
+
+indemnity, 
+
+elaborate, sophisticated, byzantine, refine, imposing, flamboyant, convoluted, complicate, contrived, baroque, 
+
+torrential, teeming, exuberant, 
+
+discursive, encyclopedic, excursive, erratic, prolix, episodic, 
+
+mirth, levity, 
+
+phlegmatic, lethargic, dispassionate, stolid, deadpan, stoic, groggy, frigid, 
+
+insensible, obdurate, numb, intangible, torpid, inanimate, 
+
+neutralize, override, antagonize, disarm, abrogate, subdue, countervail, 
+
+tepid, halfhearted, moderate, languid, temperate, 
+
+tangy, pungent, piquant, tasty, savory, 
+
+stifle, muffle, extinguish, smother, squelch, repress, suffocate, quell, dampen, 
+
+indolent, lax, lethargic, remiss, supine, languid, inert, torpid, idle, 
+
+precursor, prototype, harbinger, predecessor, original, herald, forebear, usher, 
+
+dandy, champion, paragon, exemplary, agreeable, 
+
+dissension, static, faction, discord, wrangle, spat, friction, 
+
+madcap, wag, reckless, clownish, daredevil, imprudent, 
+
+strut, bluster, grandstand, vaunt, undergird, buttress, 
+
+stigma, reproach, blemish, odium, slur, 
+
+flinch, quail, wince, swerve, cower, eschew, withdraw, recoil, shun, 
+
+torrid, sweltering, 
+
+lampoon, mockery, ridicule, jape, travesty, sneer, invective, satirize, caricature, parody, debunk, 
+
+libertine, dissolute, rakish, profligate, 
+
+punctilious, fastidious, painstaking, scrupulous, meticulous, orthodox, observant, conscientious, fussy, 
+
+committed, bound, 
+
+endorse, attest, uphold, champion, accede, abet, sanction, ratify, commend, advocate, affirm, corroborate, 
+
+forestall, parry, preclude, thwart, obviate, monopolize, deter, 
+
+captious, fastidious, sly, testy, fretful, exacting, demanding, querulous, fractious, petulant, 
+
+cosset, mollycoddle, toy, 
+
+reproach, excoriate, berate, censure, chide, contempt, reprove, discredit, condemn, carp, slight, reproof, admonish, upbraid, scorn, inveigh, invective, remonstrance, 
+
+equivocate, palter, parry, prevaricate, dodge, simulate, waffle, cavil, hedge, sidestep, 
+
+purvey, procure, 
+
+effusive, windbag, expansive, prolix, fluent, windy, lavish, extravagant, ebullient, exuberant, garrulous, 
+
+taunt, mockery, ridicule, gibe, flout, scorn, sneer, tantalize, chaff, deride, sarcasm, 
+
+chivalrous, gallant, genteel, valiant, sublime, lofty, 
+
+dolorous, plaintive, lugubrious, dire, mournful, 
+
+boycott, denounce, ostracize, snub, embargo, proscribe, sanction, revolt, spurn, 
+
+futile, feckless, inane, barren, bootless, idle, 
+
+infraction, breach, trespass, 
+
+tenable, rational, viable, sound, 
+
+contract, protocol, epitomize, negotiate, particularize, commitment, stipulate, abbreviate, shrink, abridge, attenuate, knit, bargain, 
+
+mangy, tatty, decrepit, squalid, moth-eaten, 
+
+illiteracy, 
+
+saturnine, dour, depressed, surly, 
+
+tycoon, 
+
+encyclopedic, catholic, 
+
+neophyte, novice, fledgling, tyro, rookie, 
+
+miscreant, errant, reprobate, heretical, 
+
+consilience, 
+
+sordid, calculated, vile, abject, squalid, covetous, mercenary, grimy, despicable, 
+
+symmetry, 
+
+candor, probity, integrity, 
+
+inaugurate, instate, initiate, institute, 
+
+hegemony, reign, authority, 
+
+discern, discriminate, 
+
+debris, residue, chaff, 
+
+supplant, usurp, oust, supersede, substitute, 
+
+soliloquy, monologue, 
+
+sturdy, solid, husky, robust, sound, stiff, 
+
+malaise, lassitude, 
+
+renegade, reactionary, insurgent, derelict, 
+
+blurt, divulge, jabber, babble, 
+
+oscillate, wag, resonate, vacillate, teeter, 
+
+solid, substantial, solvent, impenetrable, tactile, unanimous, sound, stiff, concrete, 
+
+demote, depose, 
+
+halfhearted, tame, perfunctory, lackluster, impassive, 
+
+placate, mollify, assuage, soft-pedal, conciliate, humor, soothe, reconcile, 
+
+relish, propensity, stomach, penchant, 
+
+lax, slapdash, remiss, vague, dissolute, lenient, dilatory, supine, derelict, flaccid, slack, flabby, 
+
+linger, slouch, dawdle, saunter, cling, falter, loll, idle, 
+
+expediency, propriety, 
+
+potentiate, 
+
+agonize, grieve, harrow, wince, excruciate, 
+
+restorative, salutary, refreshing, therapeutic, pathological, bracing, tonic, 
+
+agitate, startle, foment, distract, roil, rouse, disconcert, fluster, inflame, jog, embarrass, 
+
+submerge, subside, douse, drench, inundate, descend, plunge, sound, overwhelm, soak, 
+
+upbeat, sanguine, rosy, favorable, buoyant, 
+
+novice, fledgling, tyro, rookie, 
+
+cozen, hoodwink, dupe, swindle, 
+
+applicable, pertinent, apposite, germane, apt, relevant, apropos, viable, 
+
+subterfuge, ploy, bluff, dodge, chicanery, stratagem, hoax, ruse, 
+
+heartrending, plaintive, 
+
+commonplace, bromide, insipid, quotidian, platitude, stereotype, plebeian, diurnal, prosaic, hackneyed, humdrum, pedestrian, 
+
+immaculate, pristine, unimpeachable, exquisite, 
+
+daft, giddy, inane, absurd, 
+
+brazen, bluster, tawdry, brassy, insolent, barefaced, audacious, meretricious, impertinent, impudent, gaudy, 
+
+plush, lush, palatial, luxurious, lavish, 
+
+illustrious, eminent, redoubtable, palatial, lofty, 
+
+spleen, chagrin, grudge, rancor, caprice, 
+
+excoriate, peel, berate, lambaste, castigate, execrate, denounce, abrade, condemn, damn, upbraid, scourge, strip, lash, 
+
+attest, demonstrate, evince, uphold, ratify, swear, assert, affirm, verify, corroborate, substantiate, 
+
+pivotal, momentous, crucial, cardinal, 
+
+melodramatic, dramatic, theatrical, histrionic, 
+
+derivative, subordinate, 
+
+apprehension, misgiving, dread, qualm, awe, presage, ken, 
+
+poach, pilfer, trespass, 
+
+demagogue, incendiary, 
+
+condescending, supercilious, lofty, snobbish, 
+
+rejoice, revel, exhilarate, 
+
+catastrophe, fiasco, havoc, collapse, doom, adversity, debacle, mishap, 
+
+refute, disprove, repudiate, squelch, scorn, contradict, contravene, quash, vindicate, contend, 
+
+fracas, wrangle, spat, ruffle, 
+
+meditate, ruminate, reflect, speculate, deliberate, 
+
+affluent, abundant, prosperous, palmy, flush, 
+
+turbulent, insubordinate, tempestuous, coarse, unruly, rambunctious, 
+
+cordial, tender, amicable, affable, gregarious, harmonious, heartfelt, earnest, congenial, jovial, tonic, 
+
+subside, dwindle, recidivate, taper, collapse, moderate, descend, wane, abate, 
+
+tortuous, serpentine, byzantine, convoluted, sinuous, 
+
+override, abrogate, quash, revoke, 
+
+bluster, bluff, domineer, cow, squall, rant, bombast, 
+
+divulge, promulgate, enlighten, 
+
+chokehold, 
+
+motivate, galvanize, prod, provoke, spur, induce, dispose, 
+
+peel, doff, denude, molt, husk, strip, 
+
+bromide, platitude, stereotype, compound, bore, 
+
+discriminate, sift, 
+
+disinter, 
+
+euphemism, circumlocution, oxymoron, delicacy, 
+
+cynic, iconoclast, 
+
+propagate, graft, fertilize, proliferate, engender, cultivate, disseminate, 
+
+puerile, callow, immature, petty, inane, fatuous, 
+
+mumble, stammer, grumble, jabber, murmur, babble, mutter, 
+
+glutinous, viscid, stiff, tenacious, 
+
+fastidious, scrupulous, exacting, meticulous, demanding, prudish, conscientious, fussy, 
+
+lissome, lithe, supple, limber, pliant, flexible, 
+
+aloft, 
+
+arable, 
+
+invoke, summon, importune, crave, entreat, initiate, implement, beseech, petition, supplicate, 
+
+throng, rabble, array, flock, 
+
+insentient, quiescent, inert, extinct, inanimate, idle, 
+
+eminent, dignified, unwonted, dominant, sublime, conspicuous, paramount, 
+
+allure, pulchritude, entrap, bait, coax, fascinate, captivate, ravish, seduce, 
+
+residue, vestige, remnant, sequela, residual, 
+
+duplicitous, fraudulent, disingenuous, shifty, 
+
+chord, swerve, 
+
+imitation, mockery, spurious, travesty, substitute, dupe, affectation, bogus, duplicate, caricature, parody, mime, 
+
+palter, prevaricate, babble, quibble, bargain, 
+
+gobble, gorge, guzzle, 
+
+dearth, privation, 
+
+probity, fidelity, repute, rectitude, integrity, 
+
+parochial, petty, conservative, sectarian, 
+
+savvy, knack, acumen, acute, erudite, cognizant, 
+
+propriety, protocol, civility, rectitude, comity, concord, 
+
+ploy, machination, dodge, chicanery, stratagem, ruse, maneuver, 
+
+inculpate, incriminate, 
+
+panache, eclat, 
+
+threadbare, hackneyed, moth-eaten, dingy, stale, 
+
+terminus, finale, issue, 
+
+insipid, bland, tedious, inane, drab, feeble, vapid, anemic, maudlin, innocuous, 
+
+incantation, 
+
+permeable, retentive, porous, 
+
+nebulous, vague, tenuous, ambiguous, murky, 
+
+banish, ostracize, sequester, oust, proscribe, discharge, 
+
+retentive, steadfast, porous, cohesive, dogged, relentless, tenacious, 
+
+fungible, complementary, compatible, equivalent, synonymous, 
+
+satiate, slake, gorge, sate, surfeit, pall, nauseate, gratify, glut, content, 
+
+prepossessing, appealing, bewitching, 
+
+wag, 
+
+fidelity, homage, ardor, integrity, 
+
+dwindle, taper, wilt, shrink, wane, languish, abate, wizen, 
+
+sly, wily, covert, cunning, surreptitious, disingenuous, subtle, cagey, mischievous, ingenious, canny, 
+
+obstruct, check, stymie, brake, sabotage, clog, hamper, impede, thwart, encumber, deter, barricade, stonewall, 
+
+infatuate, engross, haunt, enthrall, gratify, fascinate, captivate, obsess, seduce, 
+
+macerate, permeate, mash, soak, 
+
+certitude, conviction, 
+
+carnal, worldly, voluptuous, somatic, temporal, 
+
+protocol, convention, 
+
+urbane, worldly, debonair, bland, sophisticated, genteel, glib, affable, obliging, cosmopolitan, 
+
+mint, fabricate, ream, original, cast, slew, issue, 
+
+appealing, riveting, voluptuous, winsome, agreeable, 
+
+divination, revelation, 
+
+antedate, 
+
+engross, enthrall, fascinate, arrest, captivate, obsess, monopolize, soak, 
+
+retract, suspend, secede, renege, repeal, repudiate, abrogate, abjure, renounce, withdraw, revoke, 
+
+lethargic, dilatory, supine, languid, slack, impassive, torpid, idle, 
+
+worldly, blasé, sophisticated, cosmopolitan, temporal, 
+
+rational, prudent, sober, lucid, sound, liberal, deliberate, levelheaded, 
+
+emancipate, discharge, manumit, 
+
+slake, assuage, gratify, mitigate, abate, subdue, slack, 
+
+fabricate, prevaricate, construct, forge, feign, 
+
+berate, lambaste, castigate, censure, chide, reprove, fulminate, scorch, admonish, upbraid, reprehend, inveigh, lash, 
+
+clandestine, covert, fraudulent, furtive, surreptitious, 
+
+elegy, 
+
+deplore, execrate, censure, denounce, grieve, rue, 
+
+spent, effete, jaded, prostrate, limp, 
+
+quota, stint, 
+
+forage, pilfer, scour, 
+
+relinquish, abdicate, repudiate, resign, forfeit, forsake, renounce, withdraw, evacuate, 
+
+reign, domineer, 
+
+entangle, clog, tangle, entrap, snarl, mire, fetter, complicate, embarrass, 
+
+justify, exculpate, uphold, condone, alibi, advocate, verify, vindicate, exonerate, corroborate, substantiate, palliate, contend, warrant, countenance, 
+
+grit, mettle, bravura, prowess, pluck, stamina, 
+
+chronic, irradicable, abiding, inveterate, 
+
+hanker, crave, 
+
+demonstrate, evince, elucidate, showcase, explicate, proclaim, verify, substantiate, debunk, 
+
+fawn, abase, creep, cower, debase, defer, flatter, adulate, 
+
+prate, jabber, vaunt, rave, 
+
+anterior, foreground, precedent, 
+
+tender, supple, immature, proffer, overture, flabby, 
+
+desecrate, contaminate, maculate, 
+
+tatty, decrepit, moth-eaten, rickety, dingy, ramshackle, 
+
+commencement, inception, onset, 
+
+clamor, convulsion, row, babble, discord, rant, 
+
+muffle, soft-pedal, smother, squelch, repress, subdue, conceal, dampen, 
+
+epitomize, recapitulate, abbreviate, abridge, compress, 
+
+mollify, assuage, conciliate, mitigate, moderate, alleviate, soothe, quell, palliate, 
+
+glutton, 
+
+hoodwink, bluff, gull, dupe, hoax, swindle, 
+
+apostasy, heresy, 
+
+rehearsal, 
+
+deposit, retainer, secrete, 
+
+chorale, lullaby, verse, 
+
+vacuous, inane, superficial, 
+
+restless, footloose, restive, fretful, unruly, 
+
+advert, allude, 
+
+apprehensive, timid, timorous, conversant, stiff, cognizant, 
+
+abuse, aspersion, damn, diatribe, exploit, 
+
+proprietary, placebo, 
+
+adjudicate, mediate, referee, 
+
+constringe, shrink, 
+
+fervid, devout, impetuous, 
+
+prototype, predecessor, archetype, paradigm, precedent, blueprint, 
+
+peck, carp, nibble, 
+
+sluggard, drone, slouch, 
+
+tractable, tame, plastic, facile, meek, obedient, compliant, pliable, malleable, ductile, amenable, pliant, flexible, 
+
+parry, rebuff, preclude, dodge, repulse, goldbrick, deflect, shirk, sidestep, shun, 
+
+complacency, 
+
+truism, platitude, 
+
+prude, 
+
+vocation, dodge, 
+
+balky, restive, wayward, obstinate, unruly, loath, 
+
+lambaste, castigate, reprove, smother, upbraid, inveigh, hammer, 
+
+suspend, withhold, supersede, arrest, adjourn, defer, sling, 
+
+instate, institute, 
+
+cascade, descend, gush, 
+
+pulchritude, 
+
+placebo, 
+
+castigate, censure, denounce, chide, reprove, condemn, fulminate, damn, upbraid, scourge, inveigh, lash, 
+
+debonair, affable, jaunty, sprightly, nonchalant, buoyant, 
+
+plethora, surfeit, cornucopia, glut, 
+
+truant, 
+
+cloak, veneer, masquerade, pall, dissemble, conceal, camouflage, 
+
+apocryphal, spurious, 
+
+flippancy, levity, 
+
+terse, trenchant, succinct, curt, elliptical, laconic, pithy, 
+
+abdicate, secede, jettison, abjure, resign, forsake, renounce, withdraw, 
+
+lag, slouch, dawdle, wane, falter, idle, 
+
+exempt, absolve, discharge, exonerate, immune, 
+
+nondescript, vague, featureless, 
+
+hidebound, conservative, irate, fractious, 
+
+dichotomy, 
+
+effervesce, 
+
+check, preclude, chide, scrutinize, repulse, bridle, patchwork, proofread, rein, embargo, detain, verify, fetter, harness, 
+
+spate, gush, 
+
+prudent, frugal, provident, parsimonious, sage, circumspect, discreet, vigilant, leery, deliberate, levelheaded, canny, 
+
+migratory, itinerant, transient, 
+
+rebuff, censure, chide, repulse, slight, repudiate, snub, spurn, stonewall, 
+
+confine, immure, bound, repress, quarantine, retrench, detain, shackle, fetter, 
+
+nuance, shadow, 
+
+plateau, 
+
+dignified, majestic, gallant, decorous, imposing, somber, reserved, magnificent, 
+
+wily, serpentine, cunning, cagey, shifty, 
+
+hagiographic, 
+
+execrate, censure, denounce, loathe, reprove, condemn, fulminate, damn, reprobate, despise, reprehend, abominate, detest, 
+
+belabor, rehash, 
+
+crest, summit, surmount, pinnacle, crescendo, zenith, acme, 
+
+slapdash, remiss, clumsy, random, improvise, reckless, haphazard, nonchalant, 
+
+secede, resign, withdraw, 
+
+rationale, ratiocination, 
+
+desultory, excursive, random, erratic, sporadic, haphazard, superficial, 
+
+resonate, reflect, reverberate, sound, 
+
+footloose, 
+
+censure, denounce, chide, tirade, reprove, decry, discredit, condemn, carp, fulminate, odium, squelch, admonish, upbraid, proscribe, reprehend, inveigh, invective, stricture, sarcasm, 
+
+negotiate, accommodate, mediate, surmount, traverse, compromise, 
+
+preclude, impede, obviate, deter, 
+
+felony, 
+
+covert, furtive, surreptitious, haven, latent, 
+
+tame, bland, pusillanimous, subjugate, moderate, feeble, subdue, vapid, vanquish, harness, 
+
+grandstand, 
+
+denounce, decry, condemn, fulminate, incriminate, proscribe, reprehend, stigmatize, 
+
+omniscient, infinite, 
+
+plastic, tawdry, supple, meretricious, substitute, limp, pliable, limber, malleable, ductile, versatile, cast, protean, elastic, pliant, flexible, 
+
+chide, reprove, condemn, admonish, upbraid, reprehend, 
+
+ennui, apathy, surfeit, fatigue, languor, lassitude, 
+
+stammer, jabber, murmur, splutter, falter, teeter, hammer, 
+
+abundant, voluminous, lush, pregnant, teeming, lavish, liberal, exuberant, 
+
+accrete, 
+
+salutary, therapeutic, pathological, wholesome, salubrious, sound, tonic, 
+
+hasten, expedite, bustle, bound, plunge, dispatch, precipitate, 
+
+prevaricate, dodge, simulate, garble, quibble, cavil, hedge, 
+
+extinguish, deracinate, douse, obliterate, raze, exterminate, smother, squelch, abate, subdue, suffocate, quell, 
+
+besmirch, denigrate, malign, maculate, 
+
+adjunct, accessory, supplement, annex, subordinate, appurtenance, 
+
+summon, convoke, 
+
+humble, servile, ingratiating, unpretentious, timid, meek, humiliate, plebeian, snub, contrite, abase, menial, subdue, debase, coy, tentative, vanquish, dishearten, 
+
+aseptic, barren, 
+
+recidivate, expire, relapse, retrograde, descend, 
+
+ingenuous, versatile, protean, 
+
+assuage, conciliate, sate, surfeit, mitigate, moderate, alleviate, soothe, reconcile, console, quell, palliate, 
+
+loathe, repudiate, despise, revolt, abominate, detest, spurn, 
+
+fraudulent, surreptitious, spurious, bogus, shifty, 
+
+aggrandize, lionize, ennoble, commend, intensify, 
+
+sullen, testy, dour, fretful, surly, gloomy, churlish, somber, petulant, 
+
+glossy, resplendent, sleek, glamorous, lustrous, 
+
+largesse, legacy, 
+
+majestic, sublime, imposing, palatial, grandiose, lofty, magnificent, 
+
+juggernaut, barrage, 
+
+gear, accessory, tackle, harness, 
+
+paradox, enigma, stickler, 
+
+peripheral, marginal, superficial, extraneous, 
+
+stymie, confound, hamper, impede, thwart, nonplus, circumvent, stonewall, 
+
+marvel, sensation, goggle, 
+
+gleam, gloss, glisten, patina, 
+
+grumble, murmur, carp, repine, mutter, 
+
+officious, obtrusive, impertinent, inquisitive, overbearing, 
+
+irradicable, inveterate, 
+
+capitulate, succumb, resign, defer, 
+
+furtive, cunning, surreptitious, circumspect, shifty, 
+
+remiss, dilatory, culpable, derelict, slack, loath, 
+
+graft, bribe, 
+
+sartorial, 
+
+repertoire, 
+
+tirade, diatribe, invective, rant, 
+
+fiasco, farce, blunder, debacle, 
+
+substantial, considerable, impenetrable, palpable, phenomenal, somatic, 
+
+palaver, rigmarole, babble, flatter, 
+
+deterioration, atrophy, decadence, 
+
+thrill, galvanize, sensation, gratify, fascinate, exhilarate, kindle, animate, 
+
+quail, wince, cower, falter, recoil, 
+
+importune, crave, coax, entreat, badger, beseech, 
+
+lethal, baleful, noxious, malignant, pernicious, 
+
+prestige, cachet, kudos, esteem, stature, credit, clout, 
+
+solace, mitigate, alleviate, soothe, console, revive, 
+
+revelation, 
+
+repute, kudos, rectitude, 
+
+avarice, 
+
+grieve, rue, 
+
+taper, wane, abate, 
+
+volatile, expansive, erratic, transient, ephemeral, buoyant, elastic, 
+
+machination, dodge, chicanery, skullduggery, stratagem, ruse, 
+
+momentum, 
+
+startle, galvanize, confound, petrify, rouse, awe, 
+
+ensue, issue, 
+
+expire, succumb, perish, 
+
+compendium, abstract, syllabus, 
+
+ponderous, clumsy, elephantine, awkward, cumbersome, monotonous, ham-handed, laborious, 
+
+infiltrate, permeate, pervade, 
+
+renege, abrogate, abjure, 
+
+feckless, reckless, inadvertent, feeble, carefree, 
+
+prognosis, surmise, cast, 
+
+belligerent, contentious, 
+
+vestige, remnant, scrap, shadow, 
+
+quotidian, 
+
+immemorial, archaic, 
+
+salvage, retrieve, glean, redeem, 
+
+daunt, cow, bully, thwart, demoralize, intimidate, appall, subdue, baffle, deter, dishearten, 
+
+clumsy, elephantine, boorish, gauche, inept, gawky, tactless, loutish, 
+
+amicable, affable, harmonious, favorable, 
+
+construct, forge, constitute, compound, 
+
+servile, abject, obedient, subservient, menial, unctuous, despicable, 
+
+bluff, feign, hoax, ruse, humbug, 
+
+lithe, supple, slight, pliable, limber, elastic, pliant, flexible, 
+
+permanent, interminable, indelible, steadfast, abiding, immutable, perpetual, imperishable, everlasting, 
+
+contempt, mockery, ridicule, slight, disdain, scorn, antipathy, sarcasm, 
+
+coda, sequel, finale, 
+
+fanciful, preposterous, facetious, figurative, absurd, extravagant, grotesque, 
+
+irritate, antagonize, aggravate, irk, rankle, disgruntle, infuriate, chagrin, provoke, gall, inflame, miff, discompose, bore, rile, 
+
+acquire, snag, procure, monopolize, preempt, annex, 
+
+snag, clog, tangle, glitch, blemish, complicate, 
+
+buoy, signal, embolden, exhilarate, bolster, reassure, hearten, 
+
+tendentious, partisan, chauvinistic, 
+
+tangent, contiguous, 
+
+sanguine, flush, buoyant, 
+
+entrance, enthrall, fascinate, captivate, ravish, debut, 
+
+reprove, condemn, admonish, upbraid, reprehend, 
+
+unwonted, conspicuous, exceptional, phenomenal, 
+
+errant, erratic, aberrant, wayward, stray, mischievous, 
+
+frugal, meager, provident, parsimonious, abstemious, meticulous, scotch, discreet, tightfisted, stingy, canny, 
+
+antagonize, estrange, 
+
+libelous, opprobrious, scandalous, invidious, pejorative, malevolent, malicious, 
+
+husky, gigantic, hale, 
+
+implode, 
+
+immure, coop, 
+
+practitioner, addict, 
+
+welter, 
+
+winnow, sift, glean, 
+
+voluminous, expansive, multifarious, convoluted, 
+
+fathom, plumb, pinpoint, gauge, sound, 
+
+callow, immature, 
+
+exorcise, 
+
+ostracize, oust, snub, proscribe, shun, 
+
+pulverize, grate, mash, vanquish, vaporize, 
+
+rite, solemnity, 
+
+rabid, fervent, vehement, 
+
+cement, adhere, consolidate, solder, concrete, 
+
+peruse, scrutinize, pore, 
+
+brake, hamper, rein, impede, damper, 
+
+pseudonym, 
+
+burnish, gloss, scour, patina, wax, 
+
+meteoric, dazzling, transient, ephemeral, 
+
+evince, milk, proclaim, elicit, 
+
+soft-pedal, mitigate, moderate, gloss, alleviate, subdue, palliate, 
+
+wilt, succumb, collapse, slouch, flag, wane, languish, wizen, 
+
+exculpate, condone, absolve, discharge, vindicate, exonerate, palliate, 
+
+vague, hypothetical, ambiguous, inconclusive, oblique, abstruse, 
+
+dilettante, connoisseur, bohemian, tyro, rookie, 
+
+pertinent, apposite, germane, apt, relevant, opportune, apropos, 
+
+adhere, cling, coalesce, cleave, 
+
+dodge, chicanery, wince, skirt, malinger, goldbrick, quibble, stratagem, ruse, perfidy, shirk, sidestep, recoil, shun, 
+
+asylum, haven, harbor, 
+
+stentorian, resonant, sonorous, 
+
+serpentine, cunning, supple, subtle, convoluted, sinuous, cagey, diabolic, 
+
+idyll, respite, interregnum, 
+
+perfunctory, superficial, 
+
+dabble, tinker, dampen, idle, 
+
+ascetic, recluse, abstemious, austere, 
+
+vivacious, playful, ebullient, animate, exuberant, 
+
+cherubic, 
+
+aggravate, rankle, infuriate, provoke, compound, grate, fester, inflame, complicate, intensify, rile, 
+
+retort, jape, repartee, alibi, reciprocate, revenge, jest, 
+
+careen, reel, tilt, 
+
+gigantic, tremendous, elephantine, gargantuan, colossal, prodigious, 
+
+restive, fretful, refractory, impetuous, obstinate, skittish, fractious, unruly, recalcitrant, 
+
+pungent, redolent, trenchant, piquant, tasty, savory, acrid, caustic, 
+
+contaminate, alloy, tarnish, maculate, debase, adulterate, 
+
+dominant, ascendant, assertive, paramount, rampant, 
+
+crave, entreat, beseech, petition, supplicate, 
+
+scrutinize, pore, dissect, sift, 
+
+accentuate, underscore, intensify, 
+
+imbibe, gorge, quaff, guzzle, carouse, 
+
+jabber, murmur, babble, mutter, rave, 
+
+pariah, derelict, 
+
+harbinger, signal, presage, herald, augur, 
+
+shipshape, 
+
+obsolete, dated, effete, antiquated, hackneyed, outmoded, moth-eaten, extinct, archaic, antediluvian, 
+
+shoal, 
+
+inch, budge, modicum, creep, 
+
+pirate, forge, kidnap, filibuster, 
+
+fledgling, tyro, rookie, 
+
+preen, primp, 
+
+conciliate, disarm, mediate, reconcile, 
+
+croon, murmur, lullaby, 
+
+dispassionate, aloof, abstract, sober, stoic, moderate, imperturbable, temperate, impassive, nonchalant, serene, 
+
+downplay, understate, 
+
+murmur, drone, rustle, babble, repine, mutter, 
+
+rend, lacerate, fracture, rive, sunder, wrest, cleave, 
+
+elate, exhilarate, 
+
+scrawl, doodle, scribble, 
+
+beleaguer, badger, harry, tantalize, persecute, 
+
+considerable, momentous, lavish, commodious, 
+
+tremendous, exceptional, gargantuan, formidable, colossal, prodigious, 
+
+crux, affliction, enigma, purport, 
+
+giddy, erratic, skittish, 
+
+succumb, perish, accede, collapse, defer, wizen, 
+
+galvanize, rouse, provoke, spur, 
+
+stolid, stoic, supine, inert, impassive, 
+
+awash, flush, 
+
+irk, discomfit, bait, rankle, abrade, disgruntle, chagrin, provoke, gall, harry, discommode, fester, miff, discompose, ruffle, embarrass, bore, rile, 
+
+expedite, dispatch, precipitate, facilitate, hie, 
+
+blasé, sophisticated, jaded, 
+
+partisan, zealot, disciple, accessory, sectarian, exponent, 
+
+ingratiating, smarmy, saccharine, unctuous, 
+
+ream, cluster, upbraid, slew, 
+
+solemnity, 
+
+balloon, distend, 
+
+bland, tedious, monotonous, featureless, humdrum, vapid, diplomatic, innocuous, 
+
+blandishment, 
+
+bustle, furor, 
+
+simulate, replicate, feign, mimic, dissemble, 
+
+waddle, lumber, limp, 
+
+luminous, resplendent, refulgent, effulgent, incandescent, lucid, pellucid, lustrous, 
+
+relapse, backslide, 
+
+signal, momentous, perceptible, conspicuous, foreshadow, herald, overture, arresting, 
+
+deleterious, pathological, noxious, malicious, pernicious, mischievous, noisome, 
+
+beneficent, benign, munificent, philanthropic, 
+
+concentrate, cluster, shrink, abridge, consolidate, converge, intensify, coagulate, distill, 
+
+veneer, gloss, patina, palliate, enamel, 
+
+needy, depressed, impecunious, 
+
+brisk, fleet, windy, sprightly, stiff, dapper, bracing, 
+
+tawdry, obtrusive, meretricious, vulgar, gaudy, 
+
+alloy, hybrid, compound, mingle, amalgamate, 
+
+sabotage, subvert, hamper, 
+
+purlieu, haunt, fringe, 
+
+promulgate, trumpet, proclaim, enunciate, sound, disseminate, issue, 
+
+veer, diverge, swerve, deflect, divert, 
+
+unpretentious, prosaic, discreet, 
+
+interminable, self-perpetuating, perpetual, infinite, everlasting, 
+
+apposite, germane, apt, relevant, apropos, synonymous, 
+
+domineer, bully, intimidate, menace, 
+
+stagnant, static, quiescent, inert, stale, apoplectic, slack, fusty, idle, 
+
+contagious, endemic, 
+
+accord, remunerate, conform, truce, assent, consensus, concur, jibe, reconcile, affirm, volition, compromise, attune, consent, concord, 
+
+interrogate, 
+
+prowl, waylay, lurk, 
+
+numinous, metaphysical, ethereal, intangible, 
+
+repulse, nauseate, disdain, revolt, defy, spurn, 
+
+redolent, full-bodied, reminiscent, ambrosial, 
+
+cow, discomfit, bully, abash, disconcert, appall, subdue, coerce, embarrass, dishearten, 
+
+windbag, grandiloquent, 
+
+uphold, vouch, champion, undergird, ratify, buttress, bolster, advocate, assert, vindicate, proselytize, warrant, countenance, 
+
+mockery, farce, ridicule, sacrilege, gibe, disdain, travesty, scorn, persiflage, caricature, jest, mime, sarcasm, 
+
+fertilize, cultivate, germinate, 
+
+distain, 
+
+hypothetical, abstract, conditional, putative, intangible, 
+
+propitious, prosperous, benign, rosy, opportune, auspicious, 
+
+perish, collapse, wizen, 
+
+florid, figurative, rhetorical, flamboyant, chromatic, grandiloquent, gaudy, sonorous, rubicund, fussy, baroque, 
+
+cataclysmal, 
+
+cunning, sage, disingenuous, guile, acute, cagey, diplomatic, ingenious, canny, shifty, 
+
+prescription, 
+
+aspersion, invective, slur, 
+
+sophisticated, jaded, subtle, cosmopolitan, 
+
+sedentary, torpid, idle, 
+
+momentous, crucial, 
+
+complementary, equivalent, integral, concomitant, 
+
+gallant, valiant, escort, stouthearted, 
+
+dated, antiquated, outmoded, moth-eaten, fusty, archaic, 
+
+incontrovertible, 
+
+tiff, sulk, row, wrangle, spat, miff, tantrum, scrap, 
+
+commingle, compound, conflate, coalesce, mingle, adulterate, amalgamate, 
+
+dissolute, intemperate, effete, decadent, rakish, profligate, 
+
+itinerant, motile, peripatetic, nomad, 
+
+decry, discredit, detract, denigrate, condemn, reprobate, malign, sneer, reprehend, disparage, 
+
+industrious, painstaking, sedulous, diligent, conscientious, laborious, assiduous, 
+
+sanctify, absolve, hallow, deify, 
+
+smuggling, 
+
+premeditate, 
+
+pusillanimous, timid, timorous, 
+
+eavesdrop, hearken, pry, 
+
+ascendant, predecessor, 
+
+fortify, embolden, buttress, consolidate, indurate, barricade, supplement, calcify, 
+
+preposterous, prohibitive, absurd, drollness, grotesque, 
+
+serried, 
+
+sensuality, depravity, decadence, 
+
+squall, caterwaul, blast, gush, 
+
+callous, obdurate, inclement, numb, indurate, impassive, impenitent, 
+
+accommodate, conform, acquiesce, harbor, reconcile, acclimate, homogenize, adapt, attune, 
+
+confound, disprove, discomfit, distract, humiliate, damn, nonplus, disconcert, fluster, baffle, overwhelm, complicate, embarrass, 
+
+platitude, stereotype, 
+
+deject, demoralize, disparage, dishearten, 
+
+embolden, exhilarate, spur, reassure, hearten, 
+
+surreptitious, 
+
+hyperbole, oxymoron, 
+
+spike, withhold, lance, adulterate, tamper, 
+
+intemperate, inclement, 
+
+smarmy, smug, sleek, unctuous, 
+
+forebode, foreshadow, presage, augur, 
+
+retrograde, 
+
+bureaucratic, abstract, 
+
+facile, pushover, glib, dexterous, fluent, versatile, proficient, protean, 
+
+automatic, spontaneous, 
+
+stygian, slate, drab, gloomy, murky, dingy, somber, 
+
+maelstrom, pandemonium, 
+
+venial, slight, 
+
+prosperous, robust, auspicious, halcyon, 
+
+jettison, forsake, cast, scrap, 
+
+manipulate, exploit, maneuver, tamper, 
+
+civility, amenity, tact, comity, cronyism, 
+
+lacerate, lance, hack, 
+
+clog, hamper, impede, encumber, fetter, hobble, complicate, glut, 
+
+tangle, disarray, snarl, wrangle, labyrinth, mire, ruffle, mesh, 
+
+blackmail, badger, bribe, milk, coerce, tribute, 
+
+remunerate, vouchsafe, requite, 
+
+aloof, stoic, supercilious, frigid, offish, glacial, reserved, taciturn, nonchalant, secluded, snobbish, 
+
+gorge, sate, surfeit, pall, guzzle, glut, 
+
+solitude, quarantine, 
+
+contemplate, pore, ruminate, goggle, speculate, deliberate, 
+
+runic, uncanny, 
+
+havoc, harrow, debacle, 
+
+idiosyncrasy, peculiarity, affectation, 
+
+pout, sulk, protrude, glower, 
+
+barrage, blast, 
+
+pushover, 
+
+distal, 
+
+lenient, benign, meek, compliant, obliging, liberal, emollient, 
+
+fallow, barren, quiescent, inert, slack, idle, 
+
+deadpan, impassive, 
+
+sanctimonious, smug, unctuous, 
+
+drone, drawl, sound, 
+
+acquisitive, covetous, mercenary, demanding, rapacious, stingy, 
+
+doff, molt, strip, 
+
+montage, patchwork, medley, array, motley, mosaic, 
+
+inherent, indigenous, latent, cellular, distinctive, intrinsic, 
+
+particularize, postulate, stipulate, bargain, 
+
+univocal, conspicuous, explicit, palpable, 
+
+facetious, jocular, 
+
+ominous, prophetic, impending, gloomy, imposing, baleful, perilous, dire, portentous, 
+
+stereotype, homogenize, convention, 
+
+turgid, 
+
+quirky, 
+
+nonentity, cipher, 
+
+affliction, scourge, ordeal, 
+
+ineluctable, inexorable, 
+
+irascible, testy, choleric, surly, feisty, fractious, petulant, 
+
+reiterate, parrot, recapitulate, rehash, 
+
+disprove, discredit, traverse, contradict, contravene, vindicate, 
+
+naysay, 
+
+contumacious, insubordinate, obdurate, refractory, wayward, insurgent, obstinate, intransigent, seditious, disaffected, recalcitrant, 
+
+discredit, detract, odium, disparage, slur, 
+
+myopic, 
+
+supposition, posit, postulate, conjecture, surmise, 
+
+petrify, appall, indurate, calcify, 
+
+farce, travesty, humor, caricature, showmanship, parody, mime, 
+
+prophetic, occult, 
+
+rabble, flock, 
+
+burgeon, proliferate, 
+
+indelible, 
+
+effete, impotent, decadent, decrepit, barren, feeble, 
+
+zealot, disciple, votary, stickler, visionary, addict, 
+
+sequester, polarize, insulate, quarantine, preempt, secrete, withdraw, 
+
+supple, limp, pliable, limber, malleable, ductile, sinuous, elastic, pliant, flexible, 
+
+benign, affable, temperate, congenial, favorable, liberal, 
+
+sate, surfeit, pall, gratify, glut, 
+
+befuddle, distract, fluster, baffle, 
+
+pore, 
+
+dodder, teeter, hobble, 
+
+testy, choleric, fretful, surly, contentious, fractious, petulant, 
+
+forge, feign, duplicate, hammer, 
+
+empirical, 
+
+conform, acquiesce, jibe, orient, reconcile, acclimate, homogenize, adapt, attune, 
+
+mettle, prowess, pluck, stamina, 
+
+enigma, conundrum, stickler, 
+
+rift, valediction, fracture, breach, 
+
+palatable, tasty, savory, edible, 
+
+excursive, 
+
+deracinate, exterminate, excavate, abate, 
+
+vouch, swear, assert, affirm, verify, corroborate, contend, warrant, 
+
+labile, 
+
+dramatic, theatrical, 
+
+abstract, distract, sublime, abbreviate, abridge, metaphysical, compress, intangible, abstruse, 
+
+sober, stoic, abstemious, lucid, pensive, temperate, earnest, austere, somber, levelheaded, serene, 
+
+genteel, prudish, ostentatious, 
+
+entrap, inveigle, entice, seduce, 
+
+usurp, supersede, preempt, wrest, annex, 
+
+harrow, strip, 
+
+reel, vacillate, falter, teeter, recoil, 
+
+pigment, 
+
+latitude, license, 
+
+eclipse, overshadow, surpass, transcend, 
+
+prohibitive, 
+
+painstaking, scrupulous, exacting, sedulous, strenuous, meticulous, diligent, methodical, conscientious, laborious, earnest, assiduous, fussy, 
+
+glib, voluble, rhetorical, fluent, slippery, superficial, loquacious, garrulous, 
+
+chicanery, skullduggery, guile, delusion, stratagem, ruse, maneuver, 
+
+discomfit, abash, outwit, impede, thwart, demoralize, disconcert, discompose, 
+
+disarray, snarl, scuff, 
+
+parrot, mimic, mime, 
+
+timid, meek, timorous, conservative, feeble, coy, tentative, 
+
+self-perpetuating, perpetual, monotonous, infinite, 
+
+antiquated, decrepit, hoary, hackneyed, outmoded, moth-eaten, stale, fusty, archaic, antediluvian, 
+
+favoritism, jaundice, 
+
+jaded, 
+
+precipitous, impetuous, precipitate, arduous, 
+
+pundit, sage, savant, virtuoso, 
+
+antithetical, wrongheaded, 
+
+axiomatic, 
+
+truce, respite, reprieve, 
+
+champion, paragon, apostle, exponent, virtuoso, 
+
+bridle, withhold, bristle, rein, repress, subdue, 
+
+assent, accede, concur, sanction, defer, consent, 
+
+prologue, overture, 
+
+retrieve, renovate, redeem, 
+
+balderdash, rigmarole, humbug, bombast, 
+
+ridicule, humiliate, disdain, flout, scorn, defy, disparage, caricature, deride, jest, parody, sarcasm, 
+
+bonhomie, amenity, 
+
+brassy, precocious, insolent, barefaced, audacious, impertinent, impudent, gaudy, 
+
+apprise, esteem, enlighten, 
+
+foment, nurture, abet, engender, cultivate, kindle, provoke, spur, instigate, inflame, 
+
+elucidate, explicate, decode, illuminate, decipher, gloss, enlighten, 
+
+wry, askew, 
+
+disciple, apostle, votary, 
+
+reactionary, conservative, orthodox, intransigent, 
+
+tarnish, mar, malign, blur, maculate, embarrass, muddy, 
+
+jape, jest, 
+
+masquerade, revel, conceal, camouflage, 
+
+refreshing, original, bracing, 
+
+immature, latent, inchoate, rudimentary, 
+
+precocious, presumptuous, 
+
+meander, saunter, stray, amble, recoil, 
+
+hangdog, abject, wretched, 
+
+oust, supersede, depose, discharge, 
+
+flounder, fumble, blunder, plunge, mire, falter, 
+
+flirt, coquette, toy, 
+
+patronize, snub, 
+
+opprobrious, insolent, scandalous, malign, pejorative, malevolent, invective, malignant, despicable, 
+
+misgiving, qualm, presage, compunction, 
+
+vaunt, 
+
+random, stray, sporadic, accidental, haphazard, adventitious, 
+
+paragon, archetype, 
+
+vouchsafe, 
+
+kindred, germane, affinity, analogous, 
+
+variance, discord, discrepancy, 
+
+germane, apt, relevant, apropos, 
+
+expansive, lavish, buoyant, commodious, elastic, 
+
+regenerate, exhilarate, renovate, reconstitute, revive, 
+
+douse, drench, smother, sop, plunge, soak, 
+
+repartee, levity, badinage, humor, sarcasm, 
+
+apathy, torpor, languor, lassitude, stupor, 
+
+dilatory, slack, deliberate, 
+
+constitute, compound, enact, 
+
+blazon, proclaim, disseminate, 
+
+spectator, 
+
+detract, distract, withdraw, deride, divert, 
+
+posit, postulate, conjecture, 
+
+convalesce, recuperate, revive, 
+
+iconoclast, bohemian, 
+
+calculated, measured, deliberate, 
+
+sensation, 
+
+redoubtable, valiant, formidable, 
+
+hilarious, jocular, jovial, 
+
+postulate, stipulate, speculate, assert, affirm, enunciate, prerequisite, 
+
+collude, 
+
+disabuse, enlighten, debunk, 
+
+replicate, reflect, dupe, duplicate, 
+
+incorrigible, refractory, reprobate, inveterate, wicked, 
+
+figurative, 
+
+surfeit, pall, glut, 
+
+penitent, abject, contrite, repentant, 
+
+ripen, cultivate, metamorphose, 
+
+withhold, repress, abstain, skimp, detain, secrete, conceal, estrange, 
+
+bait, badger, incentive, inveigle, tantalize, persecute, bribe, intimidate, entice, seduce, 
+
+rankle, gall, fester, inflame, rile, 
+
+insubordinate, insolent, refractory, insurgent, seditious, fractious, disaffected, recalcitrant, 
+
+divestiture, privation, 
+
+complaisance, 
+
+infelicitous, awkward, inept, 
+
+meek, timorous, compliant, serene, 
+
+repeal, repudiate, abrogate, quash, withdraw, revoke, 
+
+knack, propensity, mastery, 
+
+notoriety, 
+
+patchwork, medley, mosaic, 
+
+peremptory, compelling, assertive, curt, imperious, 
+
+perceptible, conspicuous, lucid, palpable, 
+
+mottle, maculate, mosaic, speck, 
+
+stench, 
+
+showcase, 
+
+crestfallen, depressed, 
+
+bully, badger, martinet, persecute, intimidate, coerce, 
+
+bound, steadfast, beholden, inexorable, tenacious, 
+
+smug, presumptuous, imperturbable, unctuous, snobbish, 
+
+insolent, barefaced, impertinent, supercilious, impudent, offish, presumptuous, overbearing, 
+
+indigenous, original, endemic, 
+
+exude, trickle, discharge, secrete, evacuate, issue, 
+
+maven, connoisseur, 
+
+impotent, barren, feeble, inept, inert, 
+
+luminary, 
+
+caveat, 
+
+debilitate, mar, disarm, sap, prostrate, demoralize, enervate, attenuate, 
+
+cluster, array, clot, flock, slew, 
+
+puny, petty, meager, feeble, infirm, piddling, fragile, 
+
+repetitious, monotonous, prolix, resonant, windy, redundant, plangent, 
+
+summit, pinnacle, crescendo, zenith, acme, 
+
+panegyric, encomium, tribute, 
+
+dexterous, apt, acute, versatile, diplomatic, protean, ingenious, canny, 
+
+pristine, original, wholesome, 
+
+haunt, permeate, apparition, obsess, appall, pervade, 
+
+cacophony, discord, 
+
+sapient, acute, cagey, canny, 
+
+stoic, imperturbable, impassive, 
+
+haven, harbor, 
+
+thorny, awkward, spiny, formidable, 
+
+denigrate, malign, calumniate, disparage, 
+
+elephantine, ham-handed, gargantuan, colossal, 
+
+ruminate, reflect, speculate, deliberate, 
+
+catalyze, infuse, animate, leaven, 
+
+soporific, monotonous, hypnotic, bore, 
+
+steadfast, abiding, immutable, obstinate, adamant, apoplectic, mulish, dogged, relentless, tenacious, 
+
+slate, 
+
+wince, swerve, shrink, cower, recoil, 
+
+improvise, ad-lib, extemporize, 
+
+timorous, tentative, 
+
+quaff, guzzle, carouse, 
+
+dour, surly, dreary, gloomy, churlish, lugubrious, stringent, taciturn, 
+
+obtrusive, impertinent, presumptuous, 
+
+cachet, stature, 
+
+lug, 
+
+valiant, audacious, assertive, stouthearted, 
+
+goggle, leer, peer, peep, bore, 
+
+decadent, wicked, moribund, 
+
+erratic, aberrant, inconsistent, anomalous, wayward, haphazard, 
+
+scandalous, invidious, heinous, scurvy, 
+
+affable, gregarious, personable, congenial, jovial, 
+
+abash, humiliate, disconcert, 
+
+abiding, immutable, perpetual, inveterate, everlasting, ironclad, 
+
+convulsion, paroxysm, frenzy, 
+
+apt, relevant, opportune, apropos, verisimilar, providential, proficient, 
+
+byzantine, convoluted, 
+
+mar, bungle, blemish, compromise, 
+
+undue, extravagant, 
+
+ill-bred, vile, boorish, barbarous, vulgar, 
+
+lumber, saddle, encumber, trudge, 
+
+disarm, subjugate, prostrate, subdue, strip, 
+
+awkward, cumbersome, gauche, cramped, inept, uncouth, gawky, perilous, tactless, stiff, fractious, 
+
+glitch, mishap, 
+
+mediate, moderate, reconcile, referee, 
+
+solvent, 
+
+vile, reprobate, noxious, nefarious, vicious, scurvy, vulgar, diabolic, despicable, 
+
+trickle, descend, creep, issue, distill, 
+
+barefaced, audacious, impudent, 
+
+sequel, row, consequence, supplement, issue, 
+
+accede, concur, acquiesce, 
+
+sweltering, 
+
+excruciate, 
+
+rustle, dispatch, sound, friction, 
+
+petty, slight, malicious, piddling, subordinate, 
+
+sacrilege, heresy, 
+
+interdict, embargo, proscribe, 
+
+audacious, reckless, impudent, presumptuous, daredevil, 
+
+enthrall, subjugate, fascinate, captivate, ravish, subdue, 
+
+collapse, descend, debacle, founder, 
+
+quack, impostor, charlatan, humbug, 
+
+spiny, 
+
+prerogative, sanction, authority, perquisite, 
+
+meretricious, spurious, theatrical, bogus, superficial, 
 
 inimitable, 
 
-insubordinate, 
+decrepit, feeble, moth-eaten, rickety, infirm, ramshackle, fragile, 
 
-institute, 
+obdurate, inexorable, obstinate, adamant, mulish, dogged, impenitent, relentless, 
 
-kilter, 
+pall, damper, glut, shadow, 
 
-mint, 
+immutable, sacrosanct, perpetual, 
 
-intrepid, 
+incongruent, inconsistent, disparate, extraneous, 
 
-lithe, 
+denude, 
 
-mandatory, 
+kudos, accolade, esteem, applause, credit, 
 
-meet, 
+valediction, partition, 
 
-mash, 
+meager, tenuous, slight, barren, scotch, scurvy, scant, 
+
+diverge, swerve, stray, bifurcate, deflect, metamorphose, 
+
+condone, abet, countenance, 
+
+explicate, 
+
+abrade, grate, scour, scuff, 
+
+mania, furor, delirium, fad, frenzy, 
+
+rigmarole, babble, 
+
+credence, credit, 
+
+pilfer, pluck, annex, 
+
+consensus, consent, concord, 
+
+trenchant, corrosive, mordant, acute, acerbic, pithy, acrid, caustic, 
+
+coax, entreat, inveigle, kidnap, soothe, entice, induce, flatter, barter, seduce, 
+
+obliterate, raze, exterminate, revoke, 
+
+raze, subvert, grate, 
+
+recapitulate, rehash, paraphrase, 
+
+requisite, indispensable, integral, prerequisite, 
+
+sacrosanct, inalienable, 
+
+torpor, slumber, languor, sloth, coma, lassitude, stupor, 
+
+embark, 
+
+tenuous, evanescent, gossamer, ethereal, attenuate, 
+
+consonant, compatible, seemly, harmonious, resonant, unanimous, congenial, analogous, plangent, 
+
+proclivity, propensity, predilection, jaundice, penchant, 
+
+sulk, glower, scowl, 
+
+bravura, prowess, array, 
+
+exterminate, vaporize, 
+
+cumbersome, onerous, 
+
+lurid, grisly, racy, 
+
+unremitting, unflagging, everlasting, relentless, 
+
+condemn, fulminate, damn, reprobate, reprehend, inveigh, disparage, 
+
+subvert, supersede, depose, debase, vanquish, vitiate, 
+
+circumlocution, 
+
+corrosive, vitriolic, acerbic, acrid, caustic, 
+
+provident, discreet, vigilant, canny, 
+
+bungle, fumble, blunder, 
+
+piquant, tasty, savory, racy, 
+
+impromptu, ad-lib, spontaneous, ad hoc, 
+
+crucial, compelling, indispensable, acute, dire, exigent, 
+
+distract, disconcert, fluster, discompose, embarrass, divert, 
+
+stitch, shred, embroider, 
+
+carp, quibble, cavil, pan, 
+
+caterwaul, 
+
+furor, fury, delirium, paroxysm, fad, frenzy, 
+
+hubris, disdain, 
+
+fracture, splutter, breach, rive, 
+
+interlock, 
+
+hallucination, apparition, delusion, delirium, chimera, mirage, 
+
+airtight, unassailable, impenetrable, 
+
+entreat, beseech, petition, supplicate, 
+
+static, latent, inert, 
+
+perpetual, diurnal, infinite, imperishable, everlasting, 
+
+motile, peripatetic, 
+
+tantamount, equivalent, duplicate, commensurate, synonymous, 
+
+remnant, shred, residual, scrap, 
+
+resplendent, dazzling, sublime, refulgent, effulgent, lustrous, magnificent, 
+
+gibe, flout, scorn, sneer, deride, sarcasm, 
+
+encompass, 
+
+choleric, 
+
+abject, subservient, menial, despicable, wretched, 
+
+squalid, dingy, grimy, fetid, ramshackle, despicable, wretched, muddy, 
+
+boorish, surly, churlish, uncouth, coarse, tactless, vulgar, loutish, 
+
+surmount, surpass, subdue, weather, vanquish, 
+
+tedious, monotonous, drab, dreary, humdrum, prolix, taxing, laborious, vapid, 
+
+impertinent, impudent, offish, inquisitive, uncouth, extraneous, 
+
+unimpeachable, unassailable, 
+
+rapt, enamored, 
+
+behoove, 
+
+self-defeating, 
+
+proofread, refine, 
+
+invidious, 
+
+disjointed, episodic, inchoate, 
+
+levity, humor, 
+
+conservative, moderate, orthodox, discreet, temperate, fusty, chauvinistic, 
+
+wan, feeble, anemic, careworn, pallid, 
+
+skirt, perimeter, circumvent, brim, sidestep, fringe, 
+
+tranquility, concord, repose, 
+
+fervent, devout, heartfelt, vehement, earnest, 
+
+hamper, impede, thwart, encumber, fetter, hobble, 
+
+gauche, ham-handed, inept, uncouth, maladroit, gawky, tactless, 
+
+fulminate, reprobate, upbraid, intimidate, menace, 
+
+dictate, canon, 
+
+barbarous, ferocious, coarse, vicious, vulgar, 
+
+saddle, encumber, 
+
+amity, comity, concord, 
+
+monotonous, dreary, prosaic, humdrum, pedestrian, 
+
+impervious, impenetrable, immune, impassive, 
+
+humiliate, snub, satirize, abase, subdue, debase, pan, dishearten, 
+
+drench, permeate, inundate, sop, soak, flush, 
+
+refine, sleek, cultivate, distill, 
+
+smother, inundate, rein, squelch, repress, quash, overwhelm, suffocate, quell, 
+
+dazzling, effulgent, flamboyant, glamorous, lustrous, 
+
+ad-lib, spontaneous, extemporize, 
+
+disgorge, discharge, 
+
+document, testimony, verify, corroborate, manuscript, 
+
+friable, brittle, fragile, 
+
+slight, despise, snub, flout, scorn, skimp, piddling, subtle, scant, defy, disparage, superficial, intangible, spurn, fragile, 
+
+nauseate, revolt, 
+
+adumbrate, overshadow, foreshadow, intimate, augur, 
+
+fretful, querulous, fractious, fussy, petulant, 
+
+slouch, loll, 
+
+compatible, relevant, seemly, harmonious, commensurate, congenial, meet, synonymous, 
+
+repudiate, despise, flout, supersede, scorn, contradict, contravene, forsake, renounce, cast, detest, spurn, revoke, flush, 
+
+relevant, 
+
+inane, fatuous, absurd, vapid, pedestrian, innocuous, 
+
+sublime, imposing, lofty, ethereal, magnificent, 
+
+plebeian, coarse, pedestrian, 
+
+distraught, 
+
+molt, 
+
+voluble, prolix, fluent, windy, loquacious, garrulous, 
+
+inclement, tempestuous, 
+
+discretionary, 
+
+concur, acquiesce, jibe, converge, meet, consent, 
+
+depressed, morbid, gloomy, prostrate, pessimistic, mournful, wretched, 
+
+drab, dreary, prosaic, humdrum, murky, lackluster, dingy, somber, muddy, 
+
+slumber, languor, coma, somnolence, doze, stupor, repose, 
+
+impending, portentous, 
+
+eulogize, lionize, commend, extol, flatter, 
+
+row, imbroglio, 
+
+hoary, frosty, antediluvian, 
+
+surly, churlish, fractious, 
+
+diurnal, everlasting, 
+
+fleet, 
+
+dreary, gloomy, humdrum, murky, dingy, windy, somber, pedestrian, wretched, 
+
+encomium, accolade, tribute, 
+
+groggy, 
+
+permeate, infuse, soak, perforate, pervade, 
+
+aberrant, morbid, anomalous, preternatural, wayward, grotesque, 
+
+sap, demoralize, dupe, enervate, attenuate, oaf, vitiate, 
+
+disdain, despise, snub, scorn, antipathy, cronyism, deride, spurn, shun, 
+
+extrapolate, project, 
+
+gregarious, personable, cosmopolitan, 
+
+spurious, bogus, contrived, 
+
+riveting, compelling, hypnotic, bewitching, 
+
+acquiesce, jibe, reconcile, consent, 
+
+refractory, obstinate, mulish, stiff, unruly, recalcitrant, 
+
+homage, esteem, awe, obeisance, tribute, 
+
+scrupulous, meticulous, circumspect, methodical, conscientious, assiduous, fussy, 
+
+ambiguous, inconclusive, backhanded, precarious, muddy, 
+
+refulgent, incandescent, lustrous, 
+
+privation, 
+
+blemish, blur, speck, 
+
+abysmal, infinite, 
+
+numb, unwitting, apoplectic, torpid, 
+
+apostle, advocate, herald, 
+
+odium, antipathy, slur, 
+
+iniquity, trespass, depravity, 
+
+surcharge, 
+
+nurture, bolster, 
+
+obedient, compliant, obliging, subservient, observant, pliable, amenable, pliant, 
+
+leer, sneer, 
+
+infinite, everlasting, 
+
+ethics, convention, ethos, integrity, 
+
+commitment, arrest, liability, 
+
+striate, 
+
+alibi, avowal, 
+
+conjecture, surmise, speculate, 
+
+swerve, stray, deflect, sidestep, divert, recoil, 
+
+malinger, goldbrick, shirk, 
+
+travesty, sneer, satirize, caricature, parody, 
+
+inconclusive, provisory, conditional, 
+
+damn, doom, proscribe, pan, 
+
+clarion, trumpet, 
+
+hybrid, compound, mongrel, 
+
+finale, 
+
+badger, harry, persecute, intimidate, elicit, 
+
+barren, scant, unavailing, 
+
+reprobate, profligate, wicked, 
+
+scorch, parch, stale, singe, 
+
+therapeutic, pathological, salubrious, 
+
+marginal, 
+
+badinage, persiflage, 
+
+misapprehension, delusion, 
+
+revel, carouse, 
+
+fatigue, languor, lassitude, enervate, bore, 
+
+ecumenical, catholic, cosmopolitan, 
+
+accessory, subsidiary, supplement, concomitant, subordinate, appurtenance, 
+
+vicarious, 
+
+rosy, auspicious, palmy, favorable, rubicund, 
+
+tempestuous, coarse, windy, boisterous, 
+
+covetous, mercenary, rapacious, voracious, stingy, 
+
+inconsistent, anomalous, disparate, wrongheaded, 
+
+languor, lassitude, stupor, 
+
+spontaneous, impetuous, 
+
+jaunty, rakish, playful, ostentatious, insouciant, sprightly, dapper, jovial, buoyant, carefree, 
+
+predecessor, forebear, 
+
+stipulate, warrant, bargain, 
+
+veracious, aboveboard, 
+
+medley, compound, 
+
+recluse, 
+
+parsimonious, scotch, tightfisted, stingy, 
+
+unassailable, invincible, foolproof, inalienable, 
+
+bristle, ruffle, 
+
+squat, cipher, cower, 
+
+off-key, anomalous, 
+
+snarl, labyrinth, mutter, mesh, 
+
+canonize, deify, 
+
+rakish, chic, profligate, dapper, 
+
+palpitation, 
+
+decorous, seemly, 
+
+absolve, discharge, atone, vindicate, exonerate, 
+
+morbid, grisly, pessimistic, 
+
+despise, snub, scorn, abominate, renounce, eschew, defy, deride, detest, spurn, shun, 
+
+compelling, compulsive, stringent, 
+
+hearken, 
+
+malign, malevolent, calumniate, disparage, 
+
+plumb, gauge, delve, sound, 
+
+featureless, 
+
+venue, 
+
+blur, slur, muddy, 
+
+conspicuous, ostentatious, palpable, patent, arresting, 
+
+full-bodied, robust, 
+
+incriminate, 
+
+irate, 
+
+subjugate, repress, subdue, coerce, vanquish, quell, 
+
+disgruntle, 
+
+detach, quarantine, disengage, sunder, 
+
+anomalous, preternatural, exceptional, prodigious, 
+
+backhanded, oblique, 
+
+dissect, sunder, cleave, 
+
+gloomy, murky, lugubrious, dingy, dire, pessimistic, somber, wretched, muddy, 
+
+poseur, mimic, 
+
+trumpet, proclaim, herald, tout, 
+
+precipitation, 
+
+rue, remorse, compunction, penance, 
+
+lush, palatial, luxurious, lavish, verdant, exuberant, 
+
+sloth, 
+
+roil, inflame, rile, muddy, 
+
+ham-handed, inept, gawky, 
+
+compliant, pliable, malleable, pliant, flexible, 
+
+lopsided, askew, 
+
+babble, mutter, humbug, rave, 
+
+proliferate, engender, escalate, 
+
+gull, outwit, dupe, hoax, 
+
+exacting, onerous, demanding, taxing, conscientious, assiduous, austere, imperious, exigent, stringent, fussy, 
+
+supercilious, lofty, overbearing, imperious, snobbish, 
+
+slant, garble, conviction, orient, peculiarity, tilt, 
+
+hurricane, 
+
+jibe, 
+
+prod, abet, gadfly, provoke, spur, jog, 
+
+undergird, buttress, bolster, 
+
+venerate, esteem, hallow, deify, adore, 
+
+paradise, nirvana, 
+
+devout, orthodox, heartfelt, earnest, 
+
+snub, scorn, slur, spurn, shun, 
+
+inundate, overwhelm, glut, 
+
+prostrate, supine, recumbent, 
+
+polarize, partition, 
+
+rein, repress, harness, 
+
+abstemious, moderate, temperate, austere, 
+
+mercenary, venal, stingy, 
+
+drawl, prolong, 
+
+culpable, 
+
+squelch, thwart, repress, quash, 
+
+jeopardy, menace, liability, 
+
+chic, dapper, fad, 
+
+garble, slur, 
+
+seemly, apropos, congenial, meet, 
+
+flout, scorn, sneer, defy, deride, spurn, 
+
+gratify, requite, captivate, humor, divert, content, 
+
+effulgent, incandescent, lustrous, 
+
+puckish, playful, wicked, mischievous, 
+
+coma, somnolence, stupor, 
+
+dullard, simpleton, 
+
+sedulous, diligent, laborious, assiduous, 
+
+peripatetic, 
+
+dawdle, saunter, amble, loll, idle, 
+
+outwit, outmaneuver, hoax, circumvent, baffle, 
+
+feisty, 
+
+impede, thwart, detain, complicate, deter, meddle, stonewall, 
+
+preternatural, phenomenal, occult, 
+
+pejorative, 
+
+yoke, nexus, 
+
+embargo, proscribe, 
+
+saunter, amble, 
+
+assertive, demanding, overbearing, unruly, wrongheaded, 
+
+onerous, strenuous, demanding, taxing, laborious, formidable, grueling, arduous, 
+
+maverick, bohemian, malcontent, 
+
+stint, grudge, skimp, 
+
+sterling, exemplary, exquisite, magnificent, 
+
+damper, 
+
+fascinate, captivate, tantalize, ravish, overwhelm, seduce, animate, 
+
+vignette, 
+
+magnitude, consequence, 
+
+manacle, shackle, fetter, tether, 
+
+heinous, nefarious, vicious, scurvy, 
+
+hive, 
+
+goldbrick, creep, eschew, shirk, lurk, sidestep, shun, 
+
+waffle, quibble, vacillate, hedge, 
+
+faction, 
+
+obliging, agreeable, 
+
+zeal, vim, delirium, alacrity, ardor, 
+
+ostensible, nominal, superficial, 
+
+merited, 
+
+thwart, nonplus, tantalize, circumvent, defy, 
+
+hypnotic, anodyne, 
+
+sift, glean, delve, pan, 
+
+infuriate, provoke, inflame, rile, 
+
+rhetorical, imposing, flamboyant, fluent, grandiose, grandiloquent, 
+
+impenetrable, convoluted, 
+
+prosaic, hackneyed, humdrum, lackluster, pedestrian, 
+
+diocesan, 
+
+pandemic, catholic, generic, diffuse, cosmopolitan, 
+
+wayward, fractious, wicked, unruly, recalcitrant, 
+
+reproof, remonstrance, 
+
+amenity, tact, 
+
+nibble, nip, 
+
+dappled, motley, piebald, 
+
+insulate, quarantine, 
+
+catholic, generic, diffuse, cosmopolitan, eclectic, liberal, 
+
+resuscitate, renovate, revive, 
+
+diatribe, invective, stricture, rant, 
+
+indispensable, integral, cardinal, prerequisite, 
+
+rectitude, integrity, 
+
+abet, sanction, provoke, spur, instigate, advocate, induce, countenance, 
+
+rehash, paraphrase, 
+
+incentive, spur, bribe, 
+
+purport, 
+
+exploit, maneuver, harness, 
+
+apparition, delusion, chimera, 
+
+shred, jot, modicum, scrap, speck, shadow, 
+
+overshadow, surpass, shadow, 
+
+consequence, issue, 
+
+protrude, project, distend, overlap, 
+
+harmonious, synergic, unanimous, congenial, euphonious, halcyon, dulcet, 
+
+supersede, forsake, supplement, 
+
+pathological, tonic, 
+
+admonish, upbraid, reprehend, inveigh, 
+
+cornucopia, 
+
+surmise, speculate, opine, 
+
+hackneyed, outmoded, moth-eaten, stale, 
+
+scrutable, 
+
+lionize, adulate, 
+
+depose, swear, 
+
+conundrum, 
+
+peer, peep, pry, 
+
+strenuous, demanding, taxing, laborious, wicked, grueling, arduous, 
+
+original, cellular, archetype, distinctive, paradigm, resourceful, ingenious, 
+
+requite, reciprocate, redeem, revenge, retaliate, 
+
+fatuous, absurd, 
+
+substitute, equivalent, 
+
+tinker, toy, doodle, tamper, 
+
+frowsy, 
+
+emigrate, 
+
+reflect, speculate, cast, deliberate, 
+
+humdrum, mediocre, menial, pedestrian, 
+
+intermittent, periodical, sporadic, 
+
+vicissitude, 
+
+upbraid, inveigh, 
+
+fumble, 
+
+frigid, offish, glacial, austere, frosty, 
+
+dread, awe, 
+
+exodus, 
+
+rouse, kindle, provoke, hearten, inflame, revive, rile, 
+
+abbreviate, prune, truncate, abridge, compress, 
+
+traverse, contradict, pan, 
+
+repatriate, 
+
+pinnacle, crescendo, zenith, acme, 
+
+plaintive, lugubrious, querulous, mournful, 
+
+repress, quash, subdue, coerce, fetter, vanquish, quell, 
+
+reckless, inadvertent, daredevil, profligate, imprudent, extravagant, unruly, carefree, 
+
+meticulous, circumspect, methodical, conscientious, exquisite, fussy, deliberate, 
+
+retainer, 
+
+imposing, palatial, luxurious, grandiose, formidable, magnificent, 
+
+crutch, buttress, bolster, 
+
+doom, proscribe, 
+
+sage, savant, sound, 
+
+impudent, offish, presumptuous, 
+
+vertigo, 
+
+coquette, 
+
+consort, escort, mingle, concomitant, 
+
+enamored, 
+
+stray, 
+
+proffer, 
+
+lance, bore, 
+
+chagrin, self-abasement, disconcert, 
+
+proscribe, 
+
+engender, provoke, instigate, precipitate, induce, 
+
+lachrymose, maudlin, 
+
+turpitude, 
+
+mitigate, moderate, vaccinate, alleviate, soothe, reconcile, dilute, subdue, attenuate, quell, palliate, 
+
+sanction, ratify, commend, qualify, approbation, authority, consent, warrant, 
+
+outmoded, moth-eaten, extinct, archaic, antediluvian, 
+
+endemic, 
+
+extemporize, 
+
+splutter, rive, rave, 
+
+incipient, inchoate, 
+
+ratify, license, affirm, corroborate, substantiate, enact, consent, 
+
+warmonger, 
+
+quibble, wrangle, cavil, 
+
+cowardice, 
+
+inter, 
+
+provisory, conditional, tentative, 
+
+limp, flaccid, falter, slack, hobble, vapid, flabby, 
+
+equivalent, counterpart, duplicate, commensurate, analogous, 
+
+allude, intimate, 
+
+sleek, lustrous, 
+
+propensity, tilt, predilection, jaundice, liability, penchant, 
+
+demoralize, disconcert, debase, embarrass, dampen, dishearten, 
+
+cultivate, cherished, bolster, 
+
+debark, 
+
+quarantine, 
+
+accolade, applause, tribute, 
+
+conviction, 
+
+playful, jocular, sprightly, mischievous, 
+
+scorn, sneer, defy, disparage, deride, spurn, sarcasm, shun, 
+
+moderate, wane, abate, dampen, palliate, 
+
+contentious, querulous, petulant, 
+
+synergic, concerted, 
+
+wholesome, exemplary, salubrious, hale, savory, edible, 
+
+counterpart, duplicate, correlate, supplement, 
+
+tasty, savory, edible, 
+
+mollycoddle, 
+
+dupe, hoax, duplicate, swindle, baffle, 
+
+sectarian, heretical, 
+
+succinct, curt, laconic, pithy, 
+
+acquainted, conversant, cognizant, 
+
+prowess, mastery, 
+
+sneer, grin, caricature, deride, jest, 
+
+offish, reserved, 
+
+malevolent, baleful, malicious, malignant, vicious, misanthropic, wicked, pernicious, incendiary, 
+
+swear, plight, assert, affirm, warrant, 
+
+persiflage, 
+
+gadfly, spur, 
+
+periodical, 
+
+multifarious, eclectic, 
+
+clasp, cling, 
+
+orient, adapt, 
+
+shrink, wane, cower, compress, attenuate, wizen, 
+
+transient, evanescent, ephemeral, temporal, 
+
+calumniate, slur, 
+
+munificent, lavish, liberal, philanthropic, 
+
+eclat, 
+
+iridescent, lustrous, 
+
+congeal, clot, indurate, concrete, coagulate, 
+
+discord, spat, friction, 
+
+inveigle, entice, maneuver, flatter, seduce, 
+
+remorse, qualm, nostalgia, compunction, penance, 
+
+inadvertent, unwitting, accidental, 
+
+scourge, lash, 
+
+reprehend, 
+
+insurgent, seditious, malcontent, incendiary, 
+
+replenish, 
+
+flamboyant, ostentatious, grandiose, gaudy, glamorous, baroque, grotesque, 
+
+budge, 
+
+peep, pry, 
+
+province, 
+
+buttress, bolster, indurate, supplement, calcify, 
+
+pluck, 
+
+excavate, delve, 
+
+deadlock, plight, posture, quandary, 
+
+circumspect, observant, scotch, discreet, vigilant, cagey, deliberate, canny, 
+
+extant, 
+
+decode, decipher, 
+
+conditional, tentative, 
+
+monologue, 
+
+connoisseur, savant, gourmet, 
+
+baleful, noxious, malicious, malignant, dire, pernicious, 
+
+canon, 
+
+parity, affinity, 
+
+orthodox, 
+
+synchronous, concomitant, 
+
+disingenuous, oblique, shifty, 
+
+glower, scowl, 
+
+presumptuous, inquisitive, 
+
+breach, contravene, 
+
+cherished, harbor, adore, 
+
+robust, hale, palmy, sound, boisterous, 
+
+palatial, luxurious, grandiose, magnificent, 
+
+disparate, incommensurate, motley, 
+
+repine, languish, 
+
+somnolence, stupor, repose, 
+
+tact, acumen, repose, 
+
+ferocious, vehement, vicious, rapacious, voracious, relentless, 
+
+bash, 
+
+grisly, 
+
+endeavor, 
+
+subservient, menial, subsidiary, 
+
+commiserate, console, 
+
+chromatic, motley, gaudy, 
+
+plight, quandary, 
+
+grudge, antipathy, rancor, 
+
+explicit, lucid, pellucid, 
+
+exponent, 
+
+mordant, acerbic, acrid, caustic, 
+
+noxious, fetid, inimical, malodorous, pernicious, noisome, 
+
+venal, 
+
+abrogate, quash, abate, revoke, vitiate, 
 
 inquisitive, 
 
-latent, 
+fury, delirium, paroxysm, frenzy, 
 
-languor, 
+observant, vigilant, perceptive, cognizant, 
 
-mischievous, 
+generic, 
 
-lopsided, 
+arrest, detain, 
 
-mingle, 
+primp, 
 
-metamorphose, 
+contradict, contravene, 
 
-inconclusive, 
+peculiarity, affectation, caprice, 
 
-leaven, 
+understate, 
 
-misbehaving, 
+subliminal, latent, accidental, 
 
-iniquity, 
+ignite, illuminate, kindle, inflame, singe, 
 
-minutiae, 
+putative, 
 
-irrigate, 
+waft, glide, 
 
-malodorous, 
+scotch, methodical, canny, 
 
-inimical, 
+jot, list, modicum, scribble, speck, 
 
-liberal, 
+illuminate, kindle, enlighten, 
 
-lucid, 
+exhilarate, animate, 
 
-lugubrious, 
+kindle, provoke, instigate, inflame, whet, 
 
-itinerant, 
+vaccinate, 
+
+diligent, conscientious, unflagging, laborious, earnest, assiduous, pertinacious, 
+
+foreshadow, presage, augur, shadow, 
+
+supine, inert, recumbent, idle, 
+
+feign, dissemble, stonewall, 
+
+sybarite, 
+
+renaissance, resurgence, 
+
+earsplitting, resonant, plangent, 
+
+wrangle, 
+
+pliable, limber, malleable, ductile, versatile, amenable, responsive, susceptible, protean, elastic, pliant, flexible, 
+
+inveigh, kidnap, blast, 
+
+watershed, pan, 
+
+groundless, idle, 
+
+contort, 
+
+perimeter, brim, fringe, 
+
+unwitting, accidental, haphazard, 
+
+impetuous, precipitate, boisterous, 
+
+decipher, cipher, 
+
+euphoria, frenzy, 
+
+fraught, pregnant, 
+
+encumber, discommode, fetter, embarrass, meddle, 
+
+votary, addict, 
+
+limber, elastic, pliant, flexible, 
+
+aspect, posture, countenance, 
+
+maculate, debase, vitiate, muddy, 
+
+list, tilt, inventory, cast, 
+
+clownish, churlish, coarse, gawky, vulgar, 
+
+frothy, ebullient, 
+
+daredevil, 
+
+imperturbable, nonchalant, 
+
+channel, 
+
+outmaneuver, surpass, 
+
+descend, plunge, glide, 
+
+captivate, ravish, seduce, content, 
+
+retrench, abridge, 
+
+nonplus, disconcert, fluster, baffle, 
+
+gloss, patina, enamel, 
+
+contravene, defy, spurn, transgress, 
+
+prune, truncate, 
+
+contingency, 
+
+underscore, 
+
+posture, 
+
+bohemian, 
+
+provoke, inflame, miff, defy, induce, whet, elicit, rile, 
+
+feeble, rickety, infirm, languid, slack, anemic, mawkish, fragile, pallid, flabby, 
+
+cavil, 
+
+truncate, abridge, 
+
+compound, mingle, intensify, amalgamate, 
+
+demography, 
+
+demanding, taxing, exigent, stringent, grueling, 
+
+legacy, 
+
+self-abasement, ignominy, 
+
+nefarious, vicious, pernicious, diabolic, 
+
+modicum, scrap, mite, speck, 
+
+abjure, abstain, renounce, eschew, withdraw, 
+
+murky, turbid, dingy, muddy, 
+
+overt, patent, aboveboard, 
+
+obviate, deter, 
+
+discharge, manumit, precipitate, exonerate, evacuate, 
+
+guzzle, carouse, soak, 
+
+spur, instigate, 
+
+acumen, guile, sanity, ken, 
+
+voluptuous, luxurious, 
+
+incandescent, lustrous, 
+
+panacea, 
+
+invincible, 
+
+edifice, 
+
+prolix, windy, diffuse, loquacious, redundant, garrulous, 
+
+diaphanous, pellucid, gossamer, 
+
+resign, forsake, renounce, 
+
+project, overlap, 
+
+skullduggery, 
+
+guile, ruse, 
+
+savant, 
+
+reciprocate, vacillate, barter, retaliate, 
+
+glacial, frosty, 
+
+bifurcate, 
+
+prudish, coy, austere, 
+
+heartfelt, earnest, 
+
+reminiscent, 
+
+incommensurate, 
+
+latent, quiescent, inert, torpid, intrinsic, idle, 
+
+harbor, conceal, 
+
+delusion, figment, chimera, mirage, 
+
+lassitude, stupor, 
+
+imperishable, everlasting, 
+
+blunder, mishap, gaffe, 
+
+abstain, renounce, eschew, spurn, shun, 
+
+instigate, initiate, inflame, 
+
+sporadic, episodic, 
+
+crescendo, zenith, 
+
+revolt, renounce, defy, 
+
+disconcert, appall, discompose, baffle, ruffle, embarrass, 
+
+malleable, ductile, elastic, pliant, flexible, 
+
+affectation, 
+
+lucid, pellucid, limpid, 
+
+tilt, jaundice, penchant, 
+
+untenable, 
+
+ad hoc, 
+
+fluster, discommode, ruffle, embarrass, 
+
+speculate, deliberate, 
+
+mediocre, pedestrian, 
+
+dank, 
+
+moth-eaten, archaic, moribund, 
+
+gall, grate, effrontery, fester, rancor, rile, 
+
+toy, 
+
+reconnoiter, 
+
+waylay, kidnap, lurk, 
+
+chameleon, sycophant, charlatan, 
+
+cellular, integral, animate, 
+
+manumit, redeem, reprieve, 
+
+opportune, auspicious, apropos, favorable, 
+
+harry, tantalize, persecute, 
+
+labyrinth, mesh, 
+
+procure, induce, annex, 
+
+theatrical, histrionic, ostentatious, mannered, 
+
+skimp, scant, 
+
+adversity, mishap, 
+
+camaraderie, comity, 
+
+episodic, ephemeral, 
+
+cling, 
+
+nil, cipher, 
+
+rickety, infirm, derelict, ramshackle, precarious, fragile, 
+
+inception, onset, 
+
+paramount, cardinal, overbearing, 
+
+enervate, vitiate, 
+
+mimic, satirize, impostor, parody, mime, 
+
+compulsive, 
+
+invective, epithet, sarcasm, 
+
+ennoble, deify, 
+
+testimony, avowal, 
+
+renovate, reconstitute, rehabilitate, revive, 
+
+grin, 
+
+comity, rapport, 
+
+contrite, repentant, 
+
+stratagem, ruse, 
+
+doze, 
+
+abridge, compress, 
+
+rapprochement, 
+
+qualm, compunction, 
+
+malicious, malignant, vicious, wicked, pernicious, mischievous, 
+
+auspicious, favorable, providential, halcyon, 
+
+broach, 
+
+luxurious, ostentatious, lavish, extravagant, 
+
+dissemble, conceal, camouflage, stonewall, 
+
+ponderable, 
+
+esteem, awe, approbation, authority, adore, tribute, 
+
+histrionic, grandiloquent, 
+
+beholden, 
+
+obsess, 
+
+churlish, curt, loutish, stingy, 
+
+inexorable, obstinate, adamant, dogged, ironclad, relentless, 
+
+commend, extol, advocate, countenance, 
+
+porous, 
+
+sequela, residual, 
+
+pinpoint, 
+
+doodle, scribble, 
+
+detain, mire, coop, defer, 
+
+ostentatious, grandiose, gaudy, extravagant, fussy, snobbish, 
+
+spectrum, 
+
+turbid, muddy, 
+
+lugubrious, pensive, mournful, 
+
+syllabus, 
+
+apropos, 
+
+tantalize, entice, baffle, 
+
+obstinate, adamant, intransigent, dogged, pertinacious, tenacious, recalcitrant, wrongheaded, 
+
+shackle, fetter, hobble, tether, 
+
+nadir, 
+
+yokel, rustic, 
+
+tyro, rookie, 
+
+grate, scuff, rile, 
+
+discreet, temperate, perceptive, cagey, diplomatic, levelheaded, canny, 
+
+curt, laconic, imperious, brittle, pithy, taciturn, 
+
+pry, wrest, meddle, 
+
+discrepancy, 
+
+spendthrift, profligate, imprudent, 
+
+gauge, bore, 
+
+cohesive, tenacious, 
+
+profligate, lavish, extravagant, 
+
+forfeit, renounce, 
+
+jocular, drollness, jovial, 
+
+preoccupation, 
+
+germinate, 
+
+atrophy, wane, wizen, 
+
+contiguous, 
+
+forsake, renounce, evacuate, spurn, 
+
+pregnant, teeming, fecund, 
+
+acute, subtle, vigilant, dire, perceptive, exigent, canny, 
+
+palpable, tactile, 
+
+qualify, meet, adapt, 
+
+prolong, defer, 
+
+trespass, misbehaving, meddle, transgress, 
+
+kidnap, entice, seduce, 
+
+arrhythmic, 
+
+chaff, husk, deride, 
+
+license, impunity, patent, consent, warrant, 
+
+ductile, amenable, responsive, elastic, pliant, flexible, 
+
+heresy, 
+
+methodical, deliberate, 
+
+absurd, inept, drollness, grotesque, 
+
+lackluster, pallid, 
+
+infirm, anemic, fragile, 
+
+ministration, 
+
+array, clot, dispose, 
+
+distend, embroider, 
+
+adjourn, defer, 
+
+despotic, overbearing, imperious, 
+
+zenith, acme, 
+
+respite, interregnum, reprieve, repose, 
+
+satirize, caricature, deride, pan, parody, 
+
+credulous, 
+
+hoax, ruse, swindle, jest, canard, 
+
+martinet, stickler, 
+
+abase, debase, 
+
+vim, stamina, 
+
+debacle, 
+
+awe, intimidate, appall, 
+
+persecute, 
+
+prosecution, 
+
+negation, 
+
+bolster, reassure, 
+
+clot, precipitate, 
+
+viable, 
+
+pensive, retrospective, 
+
+menial, 
+
+dingy, derelict, grimy, somber, muddy, 
+
+sop, bribe, soak, 
+
+nominal, 
+
+quash, subdue, quell, revoke, vitiate, 
+
+delirium, ardor, frenzy, 
+
+winsome, glamorous, bewitching, 
+
+humor, flatter, caprice, jest, vagary, fad, 
+
+deflect, slew, divert, 
+
+tactile, 
+
+monopolize, patent, 
+
+bribe, entice, seduce, 
+
+quiescent, inert, apoplectic, inanimate, idle, 
+
+cramped, 
+
+piddling, 
+
+cipher, 
+
+plunge, 
+
+surveillance, 
+
+abscond, 
+
+anachronism, 
+
+rookie, 
+
+tackle, harness, 
+
+taxing, exigent, 
+
+embroider, gild, knit, 
+
+measured, temperate, deliberate, 
+
+inept, maladroit, tactless, 
+
+disengage, withdraw, 
+
+forte, 
+
+lubricate, wax, 
+
+fluent, loquacious, garrulous, 
+
+disinfect, 
+
+extol, deify, rave, 
+
+vacillate, hedge, falter, 
+
+inveterate, 
+
+teeming, fecund, 
+
+conscientious, fussy, 
+
+derelict, ramshackle, slack, stiff, 
+
+flag, wane, languish, abate, 
+
+personable, agreeable, 
+
+figment, chimera, fable, 
+
+dispatch, alacrity, precipitate, agility, 
+
+heretical, heterodox, impious, 
+
+paroxysm, frenzy, 
+
+discommode, 
+
+alleviate, soothe, 
+
+effrontery, 
+
+drollness, 
+
+resonant, sonorous, 
+
+parch, stale, dehydrate, singe, 
+
+sanity, ratiocination, 
+
+wane, abate, wizen, 
+
+tightfisted, stingy, 
+
+flaccid, slack, flabby, 
+
+malignant, 
+
+bogus, 
+
+preempt, annex, 
+
+exemplary, 
+
+adamant, intransigent, mulish, stiff, dogged, relentless, tenacious, 
+
+nocturnal, 
+
+alacrity, agility, 
+
+languid, inert, anemic, impassive, torpid, 
+
+uncouth, coarse, gawky, loutish, 
+
+grimy, 
+
+vitriolic, acerbic, acrid, caustic, 
+
+hallow, 
+
+initiate, usher, institute, indoctrinate, 
+
+abeyance, reprieve, 
+
+reassure, hearten, console, 
+
+conversant, versatile, perceptive, proficient, cognizant, protean, 
+
+grandiose, lofty, visionary, extravagant, magnificent, 
+
+enlighten, 
+
+nautical, 
+
+subtle, ethereal, attenuate, exquisite, abstruse, ingenious, canny, 
+
+intimidate, appall, menace, subdue, coerce, deter, dishearten, 
+
+pellucid, limpid, 
+
+elliptical, 
+
+evanescent, intangible, ephemeral, 
+
+mutter, 
+
+wanting, scant, 
+
+soothe, subdue, console, quell, palliate, 
+
+unflagging, assiduous, dogged, relentless, 
+
+maladroit, gawky, 
+
+metaphysical, esoteric, intangible, abstruse, 
+
+appall, dishearten, 
+
+skittish, coy, 
+
+simpleton, oaf, 
+
+quandary, mire, imbroglio, 
+
+misbehaving, transgress, 
+
+exceptional, uncanny, phenomenal, prodigious, 
+
+acerbic, acrid, caustic, 
+
+reconstitute, rehabilitate, 
+
+predilection, penchant, 
+
+carouse, 
+
+antipathy, rancor, 
+
+gild, 
+
+reconcile, atone, adapt, attune, content, 
+
+repentant, 
+
+scour, flush, 
+
+consolidate, indurate, compress, conflate, coalesce, coagulate, amalgamate, calcify, 
+
+glean, 
+
+everlasting, 
+
+entice, court, seduce, 
+
+ruse, maneuver, 
+
+polymath, sound, abstruse, 
+
+unanimous, concerted, 
+
+coarse, vulgar, gaudy, unkempt, loutish, 
+
+affinity, rapport, penchant, 
+
+duplicate, 
+
+applause, approbation, tribute, 
+
+motley, mosaic, 
+
+stature, 
+
+limpid, 
+
+asunder, 
+
+homily, 
+
+maneuver, 
+
+rive, wrest, cleave, 
+
+indurate, concrete, amalgamate, 
+
+pedant, pedagogue, 
+
+atone, redeem, 
+
+milk, elicit, 
+
+fetid, fusty, malodorous, noisome, 
+
+languish, wizen, 
+
+stricture, slur, 
+
+opine, 
+
+fester, 
+
+commensurate, 
+
+laconic, pithy, taciturn, 
+
+nirvana, 
+
+converge, flock, conflate, meet, mingle, 
+
+dilute, attenuate, adulterate, 
+
+delve, 
+
+surpass, transcend, 
+
+integral, intrinsic, 
+
+epithet, 
+
+creep, shirk, lurk, glide, 
 
 mire, 
 
-jaunty, 
+piebald, 
 
-lackluster, 
+retrospective, retroactive, 
 
-minimize, 
+mastery, ken, 
 
-miscreant, 
+advocate, proselytize, tout, 
 
-mania, 
+vigilant, agog, 
 
-manipulate, 
+vehement, earnest, exquisite, 
 
-lurch, 
+hearten, console, animate, 
 
-mangle, 
+temperate, agreeable, levelheaded, 
+
+vicious, scurvy, wicked, diabolic, 
+
+revision, 
+
+accidental, haphazard, providential, extraneous, adventitious, 
+
+brevity, 
+
+scurvy, wretched, 
+
+spat, imbroglio, friction, 
+
+precipitate, cast, distill, 
+
+assert, affirm, intimate, proclaim, vindicate, contend, 
+
+presage, augur, prescience, 
+
+gawky, rustic, loutish, 
+
+nomad, 
+
+ravish, 
+
+perilous, slippery, precarious, 
+
+tactless, imprudent, 
+
+affirm, intimate, proclaim, enunciate, substantiate, warrant, 
+
+abate, subdue, attenuate, quell, vitiate, 
+
+intimate, intrinsic, 
+
+debut, 
+
+leery, cagey, 
+
+inert, apoplectic, impassive, torpid, inanimate, idle, 
+
+versatile, elastic, resourceful, 
+
+royalty, authority, potentate, 
+
+flock, 
+
+swindle, canard, 
+
+windy, grandiloquent, diffuse, garrulous, boisterous, 
+
+amenable, agreeable, responsive, susceptible, pliant, 
+
+amble, jog, 
+
+blast, 
+
+deploy, dispose, 
+
+vulgar, 
+
+archetype, paradigm, blueprint, 
+
+salubrious, 
+
+coop, 
+
+convoluted, sinuous, baroque, 
+
+scuff, discompose, hobble, 
+
+hedge, sidestep, 
+
+court, flatter, 
+
+cower, recoil, 
+
+chimera, mirage, 
+
+infuse, mash, indoctrinate, animate, pervade, leaven, distill, 
+
+dire, formidable, somber, 
+
+jubilant, exuberant, 
+
+gourmet, 
+
+abominate, detest, 
+
+pessimistic, misanthropic, 
+
+insouciant, nonchalant, buoyant, carefree, 
+
+cardinal, 
+
+renounce, eschew, spurn, revoke, 
+
+stale, fusty, vapid, 
+
+glisten, 
+
+ramshackle, 
+
+intransigent, tenacious, 
+
+proclaim, enunciate, disseminate, tout, 
+
+apoplectic, inanimate, 
+
+inflame, intensify, rile, 
+
+stomach, 
+
+mash, 
+
+facilitate, 
+
+secrete, conceal, stonewall, 
+
+scant, 
+
+menace, 
+
+perfidy, 
+
+delegate, 
+
+lofty, visionary, 
+
+correlate, 
+
+subdue, vanquish, quell, 
+
+acclimate, weather, adapt, 
+
+cloying, saccharine, mawkish, 
+
+laborious, assiduous, stiff, grueling, arduous, 
+
+boo, 
+
+oblique, askew, 
+
+verify, corroborate, substantiate, debunk, 
+
+slippery, precarious, lustrous, shifty, 
+
+narcissistic, 
+
+gossamer, ethereal, 
+
+grandiloquent, sonorous, 
+
+stupor, 
+
+founder, 
+
+debase, vitiate, 
+
+imprudent, 
+
+effluvium, 
+
+earnest, austere, somber, 
+
+windfall, boon, 
+
+herald, augur, usher, tout, 
+
+circumvent, sidestep, 
+
+assiduous, 
+
+eschew, shun, 
+
+mulish, dogged, relentless, tenacious, recalcitrant, 
+
+jaundice, penchant, 
+
+lavish, diffuse, extravagant, flush, exuberant, magnificent, 
+
+vindicate, exonerate, corroborate, substantiate, revenge, contend, warrant, 
+
+mutate, metamorphose, 
+
+stickler, 
+
+unavailing, bootless, idle, 
+
+cronyism, 
+
+diffuse, disseminate, redundant, pervade, 
+
+miff, imbroglio, 
+
+implement, 
+
+deify, adore, 
+
+volition, 
+
+gaudy, extravagant, 
+
+haphazard, 
+
+rampant, extravagant, exuberant, boisterous, 
+
+lucrative, 
+
+matriculate, 
+
+coerce, 
+
+approbation, consent, 
+
+exonerate, 
+
+nostalgia, 
+
+compress, 
+
+residual, 
+
+weather, 
+
+solder, 
+
+obeisance, 
+
+glamorous, exotic, bewitching, 
+
+inventory, 
+
+falter, teeter, hobble, recoil, 
+
+retroactive, 
+
+husk, 
+
+counterproductive, inimical, idle, 
+
+askew, 
+
+distinctive, discrete, racy, 
+
+seditious, disaffected, incendiary, 
+
+sprightly, animate, exuberant, 
+
+overbearing, imperious, snobbish, 
+
+defy, spurn, 
+
+hale, sound, 
+
+portentous, phenomenal, 
+
+conceal, lurk, camouflage, 
+
+imbroglio, 
+
+ratiocination, 
+
+defer, 
+
+serendipity, 
+
+countervail, 
+
+cast, countenance, sling, 
+
+enunciate, sound, 
+
+homogenize, adapt, mingle, institute, 
+
+perceptive, responsive, cognizant, 
+
+gush, adulate, flush, issue, rave, 
+
+augur, 
+
+bellwether, 
+
+reverberate, recoil, 
+
+willy-nilly, 
+
+partition, 
+
+gargantuan, colossal, prodigious, 
+
+coy, reserved, 
+
+esoteric, occult, abstruse, 
+
+induce, seduce, 
+
+forebear, 
+
+resurgence, 
+
+formidable, arduous, 
+
+palmy, halcyon, 
+
+slack, flabby, idle, 
+
+exotic, extraneous, 
+
+corroborate, substantiate, 
+
+fetter, hobble, harness, tether, 
+
+liability, 
+
+egalitarian, 
+
+precarious, 
+
+ethereal, exquisite, intangible, ineffable, 
+
+discompose, ruffle, 
+
+inimical, disaffected, pernicious, wrongheaded, 
+
+sound, 
+
+ambrosial, savory, 
+
+ordeal, 
+
+impunity, 
+
+jog, 
+
+erudite, 
+
+viscid, stiff, tenacious, 
+
+conflate, coalesce, mingle, amalgamate, 
+
+rapacious, voracious, 
+
+austere, somber, stringent, rustic, acrid, 
+
+convoke, 
+
+visionary, 
+
+sinuous, 
+
+congenial, agreeable, favorable, jovial, 
+
+withdraw, evacuate, estrange, revoke, recoil, 
+
+colossal, prodigious, 
+
+loll, idle, 
+
+flatter, adulate, 
+
+sycophant, 
+
+impostor, charlatan, 
+
+stiff, taut, brittle, stringent, grueling, 
+
+rancor, revenge, sarcasm, 
+
+misanthropic, reserved, 
+
+shirk, lurk, sidestep, shun, 
+
+savory, agreeable, edible, 
+
+teeter, 
+
+attenuate, vitiate, 
+
+rehabilitate, redeem, 
+
+compromise, embarrass, bargain, 
+
+baffle, embarrass, 
+
+philistine, oaf, 
+
+hobble, 
+
+barter, bargain, 
+
+evacuate, 
+
+fusty, malodorous, archaic, 
+
+stigmatize, 
+
+uncanny, 
+
+nip, 
+
+dapper, 
+
+cosmopolitan, 
+
+substantiate, debunk, 
+
+authority, virtuoso, precedent, clout, 
+
+imperious, 
+
+extravagant, redundant, baroque, 
+
+virtuoso, 
+
+patina, enamel, 
+
+beseech, petition, supplicate, 
+
+querulous, petulant, 
+
+heterodox, 
+
+rant, rave, bombast, 
+
+overwhelm, glut, vanquish, 
+
+agreeable, favorable, euphonious, dulcet, 
+
+favorable, providential, 
+
+taut, 
+
+curmudgeon, faultfinder, malcontent, 
+
+concerted, 
+
+mannered, 
+
+complicate, 
+
+wizen, 
+
+console, revive, animate, 
+
+phenomenal, prodigious, 
+
+kilter, 
+
+caprice, vagary, fad, 
+
+retouch, 
+
+meet, convention, providential, contend, 
+
+anthropogenic, 
+
+soak, 
+
+compunction, penance, 
+
+credit, 
+
+somber, mournful, 
+
+tantrum, wax, 
+
+agog, 
+
+paraphrase, 
+
+oxymoron, 
+
+metamorphose, 
+
+malodorous, noisome, 
+
+brim, fringe, 
+
+jovial, buoyant, carefree, 
+
+extinct, archaic, inanimate, 
+
+tentative, 
+
+glut, 
+
+occult, abstruse, 
+
+lurk, 
+
+manuscript, 
+
+scrap, speck, 
+
+confluence, 
+
+fractious, petulant, chauvinistic, unruly, recalcitrant, 
+
+disparage, deride, parody, dishearten, debunk, 
+
+estrange, sunder, divert, 
+
+vapid, innocuous, 
+
+bale, 
+
+ken, 
+
+brittle, fragile, 
+
+usher, escort, institute, 
+
+superficial, idle, 
+
+paradigm, precedent, 
+
+overture, 
+
+interregnum, 
+
+malfeasance, 
+
+sunder, cleave, 
+
+disseminate, 
+
+verdant, rustic, 
+
+saccharine, 
+
+camouflage, palliate, 
+
+frosty, 
+
+caricature, parody, mime, 
+
+verisimilar, susceptible, 
+
+monarch, potentate, 
+
+patent, 
+
+coalesce, mingle, coagulate, amalgamate, cleave, 
+
+bewitching, 
+
+notch, 
+
+perforate, bore, 
+
+escort, 
+
+mournful, 
+
+pedagogue, 
+
+vanquish, quell, 
+
+voracious, prodigious, 
+
+deter, dampen, divert, dishearten, 
+
+adore, 
+
+addict, 
+
+ruffle, fringe, 
+
+filibuster, stonewall, 
+
+deride, 
+
+convention, 
+
+delicacy, 
+
+adulate, 
+
+anodyne, 
+
+slur, 
+
+faultfinder, 
+
+barricade, 
+
+anemic, pallid, 
+
+seduce, 
+
+foolproof, 
+
+mosaic, 
+
+prescience, 
+
+suffocate, 
+
+pandemonium, 
+
+petition, supplicate, 
+
+eclectic, liberal, 
+
+strip, 
+
+fable, 
+
+immune, 
+
+foreground, 
+
+exquisite, 
+
+dogged, pertinacious, relentless, tenacious, 
+
+recuperate, 
+
+stouthearted, 
+
+dehydrate, 
+
+panoramic, 
+
+arresting, 
+
+pithy, caustic, 
+
+liberal, flush, philanthropic, flexible, 
+
+teetotalism, 
+
+brandish, 
+
+nexus, 
+
+depravity, 
+
+sonorous, plangent, 
+
+providential, 
+
+charlatan, 
+
+tribute, 
+
+remonstrance, 
+
+verbatim, 
+
+sidestep, 
+
+redeem, 
+
+impassive, taciturn, serene, 
+
+avowal, 
+
+exigent, arduous, 
+
+subsidiary, annex, subordinate, 
+
+ardor, 
+
+scowl, 
+
+detest, 
+
+revenge, retaliate, 
+
+ethos, 
+
+ebullient, buoyant, exuberant, 
+
+adapt, attune, dispose, 
+
+mingle, adulterate, amalgamate, 
+
+boon, 
+
+slew, 
+
+embarrass, 
+
+expurgate, 
+
+trudge, 
+
+epigram, 
+
+discrete, 
+
+synonymous, 
+
+pan, 
+
+rubicund, 
+
+intangible, abstruse, 
+
+institute, enact, 
+
+mawkish, bathetic, maudlin, 
+
+wax, 
+
+humbug, 
+
+rapport, concord, 
+
+loquacious, redundant, garrulous, 
+
+showmanship, 
+
+reserved, taciturn, secluded, serene, 
+
+responsive, susceptible, 
+
+ignominy, 
+
+spurn, 
+
+enact, 
+
+stringent, ironclad, 
+
+fussy, 
+
+taciturn, 
+
+disaffected, 
+
+cagey, diplomatic, canny, shifty, 
+
+rustic, loutish, 
+
+indoctrinate, 
+
+glide, 
+
+archaic, antediluvian, 
+
+transcend, 
+
+wrest, elicit, 
+
+bracing, tonic, 
+
+careworn, pallid, 
+
+lullaby, 
+
+proficient, veteran, 
+
+unctuous, 
+
+redundant, 
+
+jest, 
+
+resilience, stamina, recoil, 
+
+scribble, 
+
+penance, 
+
+torpid, idle, 
+
+precedent, 
+
+tacit, 
+
+ironclad, 
+
+acrid, caustic, 
+
+quell, 
+
+stealth, 
+
+diplomatic, 
+
+stamina, 
+
+inchoate, rudimentary, 
+
+petulant, 
+
+padding, 
+
+euphonious, dulcet, 
+
+verse, 
+
+proselytize, 
+
+agility, 
+
+chauvinistic, 
+
+wicked, mischievous, diabolic, incendiary, 
+
+somatic, 
+
+revive, retaliate, 
+
+mongrel, 
+
+reprieve, 
+
+friction, 
+
+prodigious, 
+
+fragile, 
+
+retaliate, 
+
+whet, animate, 
+
+edible, 
+
+susceptible, pliant, 
+
+hie, 
+
+deportation, 
+
+revoke, vitiate, 
+
+supplement, annex, 
+
+mishap, 
+
+concrete, coagulate, 
+
+grueling, arduous, 
+
+dyspeptic, 
+
+decadence, 
+
+impenitent, 
+
+malcontent, 
+
+lustrous, 
+
+unkempt, 
+
+penchant, 
+
+fringe, 
+
+nonchalant, 
+
+dampen, dishearten, 
+
+concomitant, 
+
+vagary, 
+
+secluded, 
+
+contrived, 
+
+racy, buoyant, 
+
+pernicious, noisome, 
+
+intensify, escalate, 
+
+minuscule, 
+
+impious, diabolic, 
+
+unruly, obstreperous, recalcitrant, rambunctious, boisterous, 
+
+mesh, knit, 
+
+vendor, 
+
+mite, speck, 
+
+flush, 
+
+perquisite, 
+
+ephemeral, temporal, 
+
+elicit, 
+
+loutish, 
+
+adulterate, amalgamate, vitiate, 
+
+animate, 
+
+asperity, 
+
+divert, 
+
+buoyant, carefree, elastic, exuberant, 
+
+mischievous, noisome, 
+
+carefree, 
+
+tout, 
+
+moribund, 
+
+bootless, idle, 
+
+parody, 
+
+fecund, 
+
+pedestrian, 
+
+hammer, lash, 
+
+referee, 
+
+oaf, 
+
+meddle, tamper, 
+
+diabolic, 
+
+singe, 
+
+coagulate, 
+
+speck, 
+
+prerequisite, 
+
+overlap, 
+
+pertinacious, tenacious, 
+
+issue, 
+
+bore, 
+
+palliate, 
+
+knit, 
+
+vaporize, distill, 
+
+extraneous, adventitious, 
+
+loath, 
+
+annex, appurtenance, 
+
+rave, bombast, 
+
+dishearten, 
+
+relentless, tenacious, 
+
+baroque, grotesque, 
+
+abstruse, muddy, 
+
+pallid, 
+
+intrinsic, 
+
+subordinate, 
+
+cognizant, 
+
+stonewall, 
+
+contend, 
+
+shadow, 
+
+halcyon, serene, 
+
+obstreperous, rambunctious, boisterous, 
+
+transgress, 
+
+ineffable, 
+
+bathetic, maudlin, 
+
+regimen, 
+
+attune, 
+
+protean, elastic, 
+
+lash, 
+
+supplicate, 
+
+antediluvian, 
+
+integrity, 
+
+consent, 
+
+amalgamate, calcify, 
+
+mirage, 
+
+harness, tether, 
+
+fad, 
+
+adventitious, 
+
+emollient, 
+
+inalienable, 
+
+maudlin, 
+
+innocuous, 
+
+flabby, 
+
+commodious, 
+
+cleave, hack, 
+
+tenacious, 
+
+recumbent, 
+
+backslide, 
+
+calcify, 
+
+elastic, pliant, flexible, 
+
+warrant, 
+
+bombast, 
+
+eleemosynary, philanthropic, 
+
+despicable, wretched, 
+
+recalcitrant, 
+
+analogous, 
+
+snobbish, 
+
+resourceful, ingenious, 
+
+blueprint, 
+
+veteran, 
+
+impecunious, 
+
+tether, 
+
+rambunctious, boisterous, 
+
+concord, 
+
+acme, 
+
+temporal, 
+
+debunk, 
+
+escalate, 
+
+grotesque, 
+
+deliberate, 
+
+onset, 
+
+countenance, 
+
+agape, 
+
+aboveboard, 
+
+mime, 
+
+plangent, 
+
+tamper, 
+
+grandeur, 
+
+exuberant, 
+
+inanimate, idle, 
+
+bargain, 
+
+potentate, 
+
+dispose, 
+
+pervade, 
+
+rile, 
+
+garrulous, 
+
+milieu, 
+
+pliant, flexible, 
+
+sodden, muddy, 
+
+drudgery, 
+
+levelheaded, 
+
+idle, 
+
+vitiate, 
+
+stingy, 
+
+rudimentary, 
+
+repose, 
+
+gaffe, 
+
+warble, 
+
+arduous, 
+
+rote, 
+
+magnificent, 
+
+philanthropic, 
+
+minutiae, 
+
+sarcasm, 
+
+stoke, 
+
+ingenious, canny, 
+
+tonic, 
+
+flexible, 
+
+hack, 
+
+canard, 
+
+leaven, 
+
+wretched, 
+
+incendiary, 
+
+frenzy, 
+
+dulcet, 
+
+muddy, 
+
+wrongheaded, 
+
+chase, 
+
+appurtenance, 
+
+distill, 
+
+clout, 
+
+aspirant, 
+
+caustic, 
+
+serene, content, 
+
+recoil, 
+
+boisterous, 
+
+canny, 
+
+shun, 
+
+content, 
+
+enamel, 
+
+sling, 
+
+noisome, 
+
+shifty, 
 

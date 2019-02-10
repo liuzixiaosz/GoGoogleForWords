@@ -4,7 +4,7 @@
 
 import sys, os
 import time
-
+import threading
 import bs4, requests
 import random
 import googlesearch
@@ -50,25 +50,23 @@ def group_by_synonyms(words):
     my_graph = create_list_bin_graph(length)
     words_list = list(words)
 
+    def run(wd):
+        this_syn = search_synonyms(wd)
+        for syn in this_syn:
+            if syn in words:
+                nxt_idx = words_list.index(syn)
+                my_graph[nxt_idx][idx] = True
+                my_graph[idx][nxt_idx] = True
+
     for idx in range(0, length):
         wd = words_list[idx]
         try:
-            synonyms = search_synonyms(wd)
-            for syn in synonyms:
-                if syn in words:
-                    nxt_idx = words_list.index(syn)
-                    my_graph[nxt_idx][idx] = True
-                    my_graph[idx][nxt_idx] = True
+            threading.Thread(target=run, args=(wd,)).run()
         except Exception:
             sys.stderr.write(str(Exception) + 'Problems occur when searching for ' + wd)
             time.sleep(3)
             try:
-                synonyms = search_synonyms(wd)
-                for syn in synonyms:
-                    if syn in words:
-                        nxt_idx = words_list.index(syn)
-                        my_graph[nxt_idx][idx] = True
-                        my_graph[idx][nxt_idx] = True
+                threading.Thread(target=run, args=(wd,)).run()
             except Exception:
                 pass
 
@@ -133,7 +131,7 @@ def googleit(tup_list, sorted_tup_list, graph):
     web_dict = {}
 
     def treat_search(wd2search, stop):
-        phrase = str(wd2search)[1: -1].replace(',', '')
+        phrase = str(wd2search)[1: -1].replace(',', '').replace('\'', '')
         score = 0
         inc = []
         u = ''
@@ -148,7 +146,7 @@ def googleit(tup_list, sorted_tup_list, graph):
                     except Exception:
                         # sys.stderr.write('error with %s \n' % this_url)
                         continue
-                this_score = 0
+                this_score = -1
                 soup = bs4.BeautifulSoup(r.text, "lxml")
                 this_inc = []
                 txt = str(soup.text).lower()
@@ -160,6 +158,9 @@ def googleit(tup_list, sorted_tup_list, graph):
                         score = this_score
                         inc = this_inc
                         u = this_url
+                        if this_score == len(wd2search):
+                            break
+
         except Exception:
             pass
         return inc, u
@@ -170,29 +171,28 @@ def googleit(tup_list, sorted_tup_list, graph):
         for j in range(0, length):
             if graph[this_idx][j]:
                 to_search.append(tup_list[j][0])
-        included, url = treat_search(to_search, 3)
-        for inc_wd in included:
-            wd_list.remove(inc_wd)
-        web_dict[url] = included
-        print(url + ': ' + str(included))
+        if len(to_search) > 1:
+            included, url = treat_search(to_search, 3)
+
+            for inc_wd in included:
+                if inc_wd in wd_list:
+                    wd_list.remove(inc_wd)
+            web_dict[url] = included
+            print(url + ': ' + str(included))
+        else:
+            pass
 
     while wd_list:
         to_search = []
-        for w in wd_list:
+        for i in range(0, 5):
+            w = random.choice(wd_list)
             to_search.append(w)
-            if len(to_search) > 2:
-                included, url = treat_search(to_search, 3)
-                for inc_wd in included:
-                    wd_list.remove(inc_wd)
-                web_dict[url] = included
-                print(url + ' :' + str(included))
-                to_search = []
-        if to_search:
-            treat_search(to_search, 3)
-            for inc_wd in included:
+        included, url = treat_search(to_search, 5)
+        for inc_wd in included:
+            if inc_wd in wd_list:
                 wd_list.remove(inc_wd)
-            web_dict[url] = included
-            print(url + ': ' + str(included))
+        web_dict[url] = included
+        print(url + ' :' + str(included))
 
     return web_dict
 
@@ -202,12 +202,13 @@ def write_web(url_words_dict, **kwargs):
     if name:
         filename = name
     else:
-        filename = 'Websites_' + str(time.time()) + '.txt'
+        filename = 'Websites_' + str(time.time()) + '.md'
     print('writing webinfo ...')
     fw = open(filename, 'w')
     for i in range(1, len(url_words_dict)):
-        itm = str(url_words_dict.popitem())[1: -1]
-        fw.write(itm + '\n')
+        # itm = str(url_words_dict.popitem())[1: -1]
+        itm = url_words_dict.popitem()
+        fw.write('[%s](%s)\n' % (itm[0], str(itm[1])))
         fw.flush()
     fw.seek(0)
     fw.close()
@@ -221,9 +222,9 @@ def write_syn(tup_list, syn_graph, **kwargs):
     else:
         filename_all = 'Syn_' + str(time.time()) + '.md'
     if namegrp:
-        filename_grp = 'SynGrp_' + str(time.time()) + '.txt'
+        filename_grp = namegrp
     else:
-        filename_grp = 'synonyms_group.txt'
+        filename_grp = 'SynGrp_' + str(time.time()) + '.txt'
     print('writing synonyms_info ...')
     length = len(tup_list)
     wd_list = [tup[0] for tup in tup_list]
@@ -243,7 +244,7 @@ def write_syn(tup_list, syn_graph, **kwargs):
                     group2.append(tup_list[j][0])
 
         fw1.write('## %s\n ' % this_word)
-        fw1.writelines('![%s](#%s) ' % (line, line) for line in group1)
+        fw1.writelines('[%s](#%s) ' % (line, line) for line in group1)
         fw1.write('\n\n')
         fw2.writelines(line + ', ' for line in group2)
         fw2.write('\n\n')
@@ -268,6 +269,8 @@ def main(argv):
     words_set = preset(set(raw_words))
     wds_idx_tup_list, grouped_wds_graph = group_by_synonyms(words_set)
     write_syn(wds_idx_tup_list, grouped_wds_graph)
+    open('words_index.txt', 'w').writelines(str(wds_idx_tup_list))
+    open('graph.txt', 'w').writelines(str(grouped_wds_graph))
     sorted_tup_list, freq_dict = sort_by_imp(grouped_wds_graph, wds_idx_tup_list)
     url_words_dict = googleit(wds_idx_tup_list, sorted_tup_list, grouped_wds_graph)
     write_web(url_words_dict)
