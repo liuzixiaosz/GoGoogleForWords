@@ -39,7 +39,28 @@ def main(argv):
                 inside.append(wd)
         f_out = open('cnt.md', 'a')
         f_out.write('[link](' + url + ')\n' + str(inside)[1: -1].replace(',', '').replace('\'', '') + '\n\n')
-        print('finished')
+        f_out.close()
+        print('finished, begin to check')
+        checkin(words)
+
+
+def checkin(words):
+    list_words = list(words)
+    f = open('cnt.md', 'r')
+    f.seek(0)
+    lines = f.readlines()
+    for line in lines:
+        if 'http' in line:
+            continue
+        elif line == '\n':
+            continue
+        else:
+            check_wds = line.strip().split(' ')
+            for w in check_wds:
+                if w in list_words:
+                    list_words.remove(w)
+    print('remain: %d' % len(list_words))
+    print(str(list_words))
 
 
 if __name__ == '__main__':
