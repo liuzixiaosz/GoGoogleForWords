@@ -35,7 +35,7 @@ def main(argv):
         for wd in words:
             print('checking: %d/%d' % (c, len(words)))
             c += 1
-            if wd in cnt_ctnt:
+            if ' ' +  wd in cnt_ctnt:
                 inside.append(wd)
         f_out = open('cnt.md', 'a')
         f_out.write('[link](' + url + ')\n' + str(inside)[1: -1].replace(',', '').replace('\'', '') + '\n\n')
